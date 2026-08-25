@@ -230,17 +230,17 @@ def confirm(survivors, asof: dt.date, sleep_s: float = 0.4):
         cw, priorW = W.iloc[-1], W.iloc[:-1]
 
         level = priorW["Close"].tail(52).max()
-        c1 = cw["Close"] > level
+        c1 = bool(cw["Close"] > level)
         rng = cw["High"] - cw["Low"]
         close_pos = (cw["Close"] - cw["Low"]) / rng if rng > 0 else 1.0
-        c2 = close_pos >= 0.667
+        c2 = bool(close_pos >= 0.667)
         v10 = priorW["Volume"].tail(10).mean()
         vol_x = cw["Volume"] / v10 if v10 > 0 else np.nan
         c3 = bool(vol_x >= VOL_X_MIN)
         ma30 = W["Close"].rolling(30).mean()
         c4 = bool(len(ma30.dropna()) >= 5 and cw["Close"] > ma30.iloc[-1]
                   and ma30.iloc[-1] > ma30.iloc[-5])
-        s3 = c1 and c2 and c3 and c4
+        s3 = bool(c1 and c2 and c3 and c4)
 
         bstart = pd.Timestamp(c["prev_high_date"])
         base_d = d.loc[bstart:]
