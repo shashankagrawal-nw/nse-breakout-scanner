@@ -25,6 +25,19 @@ from scanner.analyse_claude import (SYSTEM, build_user_content,  # noqa: E402
 from scanner.notify import send_telegram  # noqa: E402
 
 
+def _json_safe(o):
+    """Last-resort JSON encoder.
+
+    numpy scalars (np.bool_, np.int64, np.float64) are not JSON-serialisable
+    even though their class names look native. `.item()` unwraps them to real
+    Python types; anything else degrades to a string rather than killing the
+    run after a full scan has already been computed.
+    """
+    if hasattr(o, "item"):
+        return o.item()
+    return str(o)
+
+
 def load_website_csvs(csv52, csvvol):
     """Map NSE website CSV downloads into the API feed shape (offline mode)."""
     feeds = {"high52w": None, "volume_gainers": None, "price_gainers": None}
@@ -132,7 +145,7 @@ def main():
     write_csv(day_dir / "watchlist.csv", watch)
     write_csv(day_dir / "rejects.csv", rejects)
     (day_dir / "all_results.json").write_text(
-        json.dumps(results, indent=1), encoding="utf-8")
+        json.dumps(results, indent=1, default=_json_safe), encoding="utf-8")
     (day_dir / "funnel.txt").write_text(funnel_txt + "\n", encoding="utf-8")
 
     analysis = write_analysis(results, funnel_txt)
