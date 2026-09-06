@@ -101,6 +101,36 @@ THEN you can also just give Claude in claude.ai the raw link
 (`https://raw.githubusercontent.com/<user>/<repo>/main/output/latest/analysis_prompt.txt`)
 and ask it to fetch and analyse — no copy-paste at all.
 
+## Watchlists and alerts
+
+Neither broker lets you write to a watchlist. Zerodha's own staff say Kite
+Connect is an order-execution platform and marketwatch items must be added by
+hand; TradingView publishes no watchlist API at all, and every library that
+claims one drives undocumented internal endpoints with your session cookie.
+So the scan writes what each platform *will* accept:
+
+- `tradingview.txt` — comma-separated `NSE:` symbols for TradingView's
+  Import option (watchlist menu -> Import). Confirmed + watch, written only
+  when non-empty, mirrored at `output/latest/tradingview.txt`.
+- **Kite price alerts** — Kite Connect *does* expose an Alerts API, so if
+  `KITE_API_KEY` and `KITE_ACCESS_TOKEN` are set, each run replaces last
+  run's alerts with today's. Absent, the step is skipped like any other
+  sender. Only `type=simple` alerts are sent; the API's ATO variant places a
+  real trade and is never used here.
+
+Alert direction is derived per stock: above its `breakout_level` gets `<=`
+(the level is now invalidation), still below gets `>=` (the level is still
+the trigger). `KITE_ALERTS_DRY_RUN=1` prints the plan without sending;
+`KITE_ALERTS_KEEP=1` stops it pruning. Pruning only removes alerts named
+`BRK-*`, so anything you made in Kite by hand is untouched.
+
+The one thing that cannot be automated is the login. Zerodha flushes access
+tokens around 07:30 IST daily and requires a manual login at least once a
+day, so run `python tools/kite_login.py --repo <owner>/<name>` each morning:
+it mints a token and pushes it to the repo secret the 18:00 scan reads.
+Automating that login with a stored TOTP secret is against Zerodha's
+guidance and risks the account.
+
 ## No API key? Two free options
 
 The scanner never needed the key for the actual breakout logic — that is

@@ -20,8 +20,10 @@ ROOT = Path(__file__).parent
 sys.path.insert(0, str(ROOT))
 
 from scanner import pipeline  # noqa: E402
+from scanner.alerts_kite import sync_alerts  # noqa: E402
 from scanner.analyse_claude import (SYSTEM, build_user_content,  # noqa: E402
                                     write_analysis)
+from scanner.exports import write_tradingview  # noqa: E402
 from scanner.notify import send_slack, send_telegram  # noqa: E402
 from scanner.report import build_slack_blocks  # noqa: E402
 
@@ -136,6 +138,10 @@ def main():
         json.dumps(results, indent=1), encoding="utf-8")
     (day_dir / "funnel.txt").write_text(funnel_txt + "\n", encoding="utf-8")
 
+    n_tv = write_tradingview(day_dir / "tradingview.txt", confirmed, watch)
+    if n_tv:
+        print(f"  tradingview.txt: {n_tv} symbol(s)")
+
     analysis = write_analysis(results, funnel_txt)
     if analysis:
         (day_dir / "analysis.md").write_text(
@@ -152,7 +158,7 @@ def main():
         shutil.rmtree(latest)
     latest.mkdir(parents=True)
     for fn in ("breakouts_confirmed.csv", "watchlist.csv", "funnel.txt",
-               "analysis.md", "analysis_prompt.txt"):
+               "analysis.md", "analysis_prompt.txt", "tradingview.txt"):
         if (day_dir / fn).exists():
             shutil.copy(day_dir / fn, latest / fn)
 
@@ -179,6 +185,10 @@ def main():
             asof, confirmed, watch, link.strip())
         if send_slack(fallback, blocks):
             print("  slack sent")
+
+    # Last, and deliberately so: the outputs are on disk and the pings are
+    # already out, so nothing above depends on the broker being reachable.
+    sync_alerts(confirmed, watch)
 
     print(f"== done -> {day_dir} ==")
 

@@ -36,6 +36,11 @@ jobs:
           # Slack incoming webhook. Secret, never inline — the URL is a
           # bearer credential for posting to the channel.
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          # Kite price alerts. Both absent -> alert sync is skipped silently.
+          # KITE_ACCESS_TOKEN is flushed by Zerodha ~07:30 IST daily, so it
+          # must be refreshed each morning: tools/kite_login.py --repo o/n
+          KITE_API_KEY: ${{ secrets.KITE_API_KEY }}
+          KITE_ACCESS_TOKEN: ${{ secrets.KITE_ACCESS_TOKEN }}
         run: python run.py
 
       - name: Commit outputs
