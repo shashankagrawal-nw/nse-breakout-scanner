@@ -116,21 +116,19 @@ WINDLAS,S1_base_short,base 1d — rolling high
 WSTCSTPAPR,S1_red_close,-0.63% on the day
 XTRANET,S1_base_short,base 2d — rolling high
 LIQUIDBETA,S0_fund,ETF/index fund
-GKB,S0_turnover,Rs 0.1 cr
-NAGREEKEXP,S0_turnover,Rs 0.9 cr
 CONSUMIETF,S0_fund,ETF/index fund
+MARALOVER,S0_turnover,Rs 2.0 cr
+NAGREEKEXP,S0_turnover,Rs 0.9 cr
 PKTEA,S0_turnover,Rs 0.5 cr
 MSCIINDIA,S0_fund,ETF/index fund
-MARALOVER,S0_turnover,Rs 2.0 cr
-AMBICAAGAR,S0_turnover,Rs 1.4 cr
+JISLJALEQS,S1_off_high,closed 3.7% off day high
 NBIFIN,S0_turnover,Rs 1.0 cr
-MSL,S0_turnover,Rs 0.0 cr
-AMARJOTHI,S0_turnover,Rs 0.2 cr
+AMBICAAGAR,S0_turnover,Rs 1.4 cr
+LOYALTEX,S0_turnover,Rs 0.1 cr
 JAYNECOIND,S1_red_close,-10.11% on the day
 SUVIDHAA,S0_turnover,Rs 0.2 cr
 ZSARACOM,S0_turnover,Rs 0.2 cr
 CURAA,S0_turnover,Rs 0.0 cr
-JISLJALEQS,S1_off_high,closed 3.7% off day high
 BURNPUR,S0_turnover,Rs 0.1 cr
 ESDS,S2_data,DATA UNAVAILABLE (1 bars)
 KSHINTL,S2_data,DATA UNAVAILABLE (177 bars)

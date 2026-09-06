@@ -13,10 +13,10 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 157
+candidates 155
 prescreen survivors 25
-confirmed 2 | watch 2 | rejected 153
-reject reasons: S1_base_short=38, S0_series=31, S1_off_high=25, S1_red_close=21, S0_turnover=14, S0_fund=8, S2_no_new_high=5, S2_data=4
+confirmed 2 | watch 2 | rejected 151
+reject reasons: S1_base_short=38, S0_series=31, S1_off_high=25, S1_red_close=21, S0_turnover=12, S0_fund=8, S2_no_new_high=5, S2_data=4
 
 Classified names (JSON):
 [
@@ -33,7 +33,7 @@ Classified names (JSON):
   "ext_vs_10m_ma_pct": 15.1,
   "base_drawdown_pct": 19.2,
   "off_high_pct": 1.12,
-  "turnover_cr": 81.1,
+  "turnover_cr": 81.2,
   "sources": "52w_high",
   "weekly_candle_final": true,
   "spliced_today": false,
@@ -96,8 +96,8 @@ Classified names (JSON):
   "ext_vs_10m_ma_pct": 25.3,
   "base_drawdown_pct": 15.1,
   "off_high_pct": 2.83,
-  "turnover_cr": 597.9,
-  "sources": "52w_high",
+  "turnover_cr": 597.0,
+  "sources": "52w_high+volume_gainer",
   "weekly_candle_final": true,
   "spliced_today": false,
   "s3_pass": true,
