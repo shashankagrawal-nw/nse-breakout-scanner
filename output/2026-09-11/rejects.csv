@@ -1,0 +1,111 @@
+symbol,stage,detail
+ACCENTMIC,S0_series,SM
+ACCPL,S0_series,ST
+ACGL,S1_off_high,closed 9.8% off day high
+AHCL,S1_base_short,base 1d — rolling high
+AIMTRON,S0_series,SM
+ASHUTOSH,S0_series,ST
+BIRLAPREC,S0_series,BE
+CFEL,S1_base_short,base 1d — rolling high
+CHENNPETRO,S1_red_close,-3.47% on the day
+COMMITTED,S0_series,SM
+CORDELIA,S1_base_short,base 3d — rolling high
+DEEP,S0_turnover,Rs 2.1 cr
+DIGJAMLMTD,S1_off_high,closed 7.5% off day high
+DSKULKARNI,S0_series,BE
+ELANTAS,S1_base_short,base 3d — rolling high
+ESDS,S1_base_short,base 1d — rolling high
+FILATEX,S1_off_high,closed 3.2% off day high
+FINCABLES,S1_off_high,closed 4.5% off day high
+FLYSBS,S0_series,SM
+FONEBOX,S0_series,SM
+GFSTEELS,S1_base_short,base 1d — rolling high
+GRAVISSHO,S0_turnover,Rs 1.8 cr
+GSEC10ADD,S0_fund,ETF/index fund
+HATSUN,S1_base_short,base 9d — rolling high
+HTEL,S0_series,BE
+IL&FSENGG,S0_series,BZ
+IMPEXFERRO,S0_series,BZ
+INTERNET,S0_fund,ETF/index fund
+KABRAEXTRU,S1_base_short,base 1d — rolling high
+KANORICHEM,S0_series,BE
+KSR,S1_base_short,base 1d — rolling high
+LADDERUP,S0_turnover,Rs 0.4 cr
+LAURUSLABS,S1_base_short,base 2d — rolling high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+LOTUSDEV,S0_series,BE
+MAHSEAMLES,S1_base_short,base 1d — rolling high
+MANAKSTEEL,S0_series,BE
+MBECL,S0_series,BE
+MERCURYEV,S1_off_high,closed 5.4% off day high
+MILKYMIST,S1_base_short,base 3d — rolling high
+MOLBIO,S1_red_close,-6.80% on the day
+MONOLITH,S0_series,SM
+NRBBEARING,S1_base_short,base 1d — rolling high
+NRL,S0_series,BE
+PAISALO,S1_base_short,base 1d — rolling high
+PAYTM,S1_base_short,base 2d — rolling high
+PSRAJ,S0_series,ST
+QLINE,S0_series,SM
+QUADFUTURE,S1_off_high,closed 5.9% off day high
+QUALIANCE,S0_series,ST
+RACLGEAR,S1_off_high,closed 3.0% off day high
+RAYMOND,S1_base_short,base 3d — rolling high
+SAAKSHI,S0_series,ST
+SEAMECLTD,S1_base_short,base 4d — rolling high
+SEL,S0_series,SM
+SETL,S1_base_short,base 1d — rolling high
+SHANKESH,S1_off_high,closed 12.6% off day high
+SHANTIINOR,S0_series,ST
+SHEETAL,S0_series,SM
+SHREEDHAR,S0_series,ST
+SIGMAADV,S0_series,BE
+SOLARA,S1_base_short,base 1d — rolling high
+SPECTRUM,S0_series,BE
+SSFL,S0_series,ST
+SSWL,S1_red_close,-0.70% on the day
+STLTECH,S0_series,BE
+SUBEXLTD,S1_base_short,base 2d — rolling high
+SUMAX,S0_series,ST
+SUNSHINE,S1_red_close,-19.99% on the day
+TAALTECH,S1_base_short,base 1d — rolling high
+TAMBOLIIN,S0_series,BE
+TECHNOCRAF,S1_red_close,-0.43% on the day
+TEXMOPIPES,S1_off_high,closed 4.3% off day high
+VALIANTLAB,S0_series,BE
+VEDAVAAG,S1_off_high,closed 10.5% off day high
+VENUSPIPES,S1_base_short,base 2d — rolling high
+VIVIDEL,S0_series,SM
+WSTCSTPAPR,S1_base_short,base 1d — rolling high
+BANKBETF,S0_fund,ETF/index fund
+NIBL,S0_turnover,Rs 1.5 cr
+ASHOKAMET,S0_turnover,Rs 2.4 cr
+SHERVANI,S0_turnover,Rs 0.1 cr
+BANKNIFTY1,S0_fund,ETF/index fund
+EQUAL50,S0_fund,ETF/index fund
+SENSEXIETF,S0_fund,ETF/index fund
+VGL,S1_off_high,closed 5.9% off day high
+HDFCNIFTY,S0_fund,ETF/index fund
+METROBRAND,S1_red_close,-1.07% on the day
+STLSTRINF,S0_turnover,Rs 0.0 cr
+AMDIND,S0_turnover,Rs 3.0 cr
+PINELABS,S1_off_high,closed 3.6% off day high
+TRACXN,S0_turnover,Rs 3.2 cr
+SUMEDHA,S0_turnover,Rs 0.0 cr
+ARCL,S2_data,DATA UNAVAILABLE (19 bars)
+DHOOTTRANS,S2_data,DATA UNAVAILABLE (20 bars)
+MANAKSIA,S0_turnover,Rs 1.6 cr
+NEPHROPLUS,S2_data,DATA UNAVAILABLE (185 bars)
+STLNETWORK,S2_data,DATA UNAVAILABLE (257 bars)
+KIRLOSIND,S1_off_high,closed 5.6% off day high
+AWFIS,S2_no_new_high,day high 299.45 < 52w high 639.40
+ORIENTTECH,S1_off_high,closed 9.1% off day high
+WESTLIFE,S2_no_new_high,day high 572.00 < 52w high 767.20
+AIIL,S2_no_new_high,day high 558.00 < 52w high 683.00
+MOBIKWIK,S1_off_high,closed 4.8% off day high
+ELECTHERM,S2_no_new_high,day high 972.00 < 52w high 1277.00
+BLACKBUCK,S2_no_new_high,day high 634.40 < 52w high 748.00
+SIKA,S2_data,DATA UNAVAILABLE (19 bars)
+UGARSUGAR,S1_off_high,closed 8.0% off day high
+HLEGLAS,S2_no_new_high,day high 404.35 < 52w high 661.95

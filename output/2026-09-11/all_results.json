@@ -1,24 +1,3 @@
-PASTE EVERYTHING BELOW THIS LINE INTO claude.ai TO GET THE ANALYSIS NOTE
-======================================================================
-
-You are a sceptical equity technical analyst writing an internal breakout note on Indian listed equities. You receive pre-computed metrics for stocks a deterministic pipeline has already classified. Rules, non-negotiable:
-- Use ONLY the numbers provided. Never invent a price, level, date, or volume.
-- Every invalidation level you state must be the provided breakout_level.
-- For each CONFIRMED name write exactly 4 short lines: (1) what level was cleared and on what volume expansion, (2) base character from base_months and base_drawdown_pct — call a drawdown over 40% a recovery, not a base, (3) invalidation: a weekly close below breakout_level, (4) the single biggest concern (extension, base shape, thin turnover, or provisional weekly candle).
-- For each WATCH name: one line on exactly what is missing.
-- If weekly_candle_final is false, open the note by saying all signals are provisional until Friday's close.
-- No buy/sell/target/position language. End with exactly: "Technical classification, not investment advice."
-- Under 450 words. Plain prose, no markdown headers.
-
----
-
-Funnel summary:
-candidates 116
-prescreen survivors 22
-confirmed 1 | watch 3 | rejected 112
-reject reasons: S0_series=34, S1_base_short=23, S1_off_high=16, S0_turnover=11, S0_fund=9, S1_red_close=6, S2_no_new_high=6, S2_data=5
-
-Classified names (JSON):
 [
  {
   "symbol": "GAYAPROJ",
@@ -63,6 +42,27 @@ Classified names (JSON):
   "s3_fail": null
  },
  {
+  "symbol": "RGL",
+  "name": "Renaissance Global Limited",
+  "bucket": "REJECTED",
+  "close": 155.49,
+  "breakout_level": 149.26,
+  "base_months": 0.5,
+  "base_start": "2026-08-26",
+  "vol_x_10wk": 0.8,
+  "weekly_close_pos": 0.66,
+  "ext_vs_10m_ma_pct": 32.0,
+  "base_drawdown_pct": 17.8,
+  "off_high_pct": 2.79,
+  "turnover_cr": 21.3,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
+  "spliced_today": false,
+  "s3_pass": false,
+  "s4_score": 2,
+  "s3_fail": "c2 weak close in weekly range"
+ },
+ {
   "symbol": "SMSPHARMA",
   "name": "SMS Pharmaceuticals Limited",
   "bucket": "CONFIRMED",
@@ -82,6 +82,27 @@ Classified names (JSON):
   "s3_pass": true,
   "s4_score": 4,
   "s3_fail": null
+ },
+ {
+  "symbol": "TDPOWERSYS",
+  "name": "TD Power Systems Limited",
+  "bucket": "REJECTED",
+  "close": 804.9,
+  "breakout_level": 767.4,
+  "base_months": 0.8,
+  "base_start": "2026-08-18",
+  "vol_x_10wk": 0.7,
+  "weekly_close_pos": 0.91,
+  "ext_vs_10m_ma_pct": 43.9,
+  "base_drawdown_pct": 10.2,
+  "off_high_pct": 1.24,
+  "turnover_cr": 344.6,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
+  "spliced_today": false,
+  "s3_pass": false,
+  "s4_score": 2,
+  "s3_fail": "c3 volume 0.7x < 1.5x"
  },
  {
   "symbol": "WABAG",
