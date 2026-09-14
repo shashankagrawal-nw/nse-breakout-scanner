@@ -71,23 +71,28 @@ SUMAX,S0_series,ST
 SUNSHINE,S1_red_close,-19.99% on the day
 TAALTECH,S1_base_short,base 1d — rolling high
 TAMBOLIIN,S0_series,BE
+TANKUP,S0_series,ST
 TECHNOCRAF,S1_red_close,-0.43% on the day
 TEXMOPIPES,S1_off_high,closed 4.3% off day high
+UHTL,S0_series,ST
 VALIANTLAB,S0_series,BE
+VALIANTORG,S0_series,BE
 VEDAVAAG,S1_off_high,closed 10.5% off day high
 VENUSPIPES,S1_base_short,base 2d — rolling high
 VIVIDEL,S0_series,SM
 WSTCSTPAPR,S1_base_short,base 1d — rolling high
+GROWWCHEM,S0_fund,ETF/index fund
 BANKBETF,S0_fund,ETF/index fund
-NIBL,S0_turnover,Rs 1.5 cr
-ASHOKAMET,S0_turnover,Rs 2.4 cr
 SHERVANI,S0_turnover,Rs 0.1 cr
-BANKNIFTY1,S0_fund,ETF/index fund
-EQUAL50,S0_fund,ETF/index fund
 SENSEXIETF,S0_fund,ETF/index fund
+NIBL,S0_turnover,Rs 1.5 cr
+BANKNIFTY1,S0_fund,ETF/index fund
+NEXT50BETA,S0_fund,ETF/index fund
+ASHOKAMET,S0_turnover,Rs 2.4 cr
+EQUAL50,S0_fund,ETF/index fund
 VGL,S1_off_high,closed 5.9% off day high
-HDFCNIFTY,S0_fund,ETF/index fund
-METROBRAND,S1_red_close,-1.07% on the day
+GSEC10IETF,S0_fund,ETF/index fund
+BFSI,S0_fund,ETF/index fund
 STLSTRINF,S0_turnover,Rs 0.0 cr
 AMDIND,S0_turnover,Rs 3.0 cr
 PINELABS,S1_off_high,closed 3.6% off day high
@@ -98,14 +103,14 @@ DHOOTTRANS,S2_data,DATA UNAVAILABLE (20 bars)
 MANAKSIA,S0_turnover,Rs 1.6 cr
 NEPHROPLUS,S2_data,DATA UNAVAILABLE (185 bars)
 STLNETWORK,S2_data,DATA UNAVAILABLE (257 bars)
+JAMNAAUTO,S2_no_new_high,day high 137.33 < 52w high 152.60
+BLACKBUCK,S2_no_new_high,day high 634.40 < 52w high 748.00
 KIRLOSIND,S1_off_high,closed 5.6% off day high
 AWFIS,S2_no_new_high,day high 299.45 < 52w high 639.40
 ORIENTTECH,S1_off_high,closed 9.1% off day high
-WESTLIFE,S2_no_new_high,day high 572.00 < 52w high 767.20
 AIIL,S2_no_new_high,day high 558.00 < 52w high 683.00
+WESTLIFE,S2_no_new_high,day high 572.00 < 52w high 767.20
+UGARSUGAR,S1_off_high,closed 8.0% off day high
 MOBIKWIK,S1_off_high,closed 4.8% off day high
 ELECTHERM,S2_no_new_high,day high 972.00 < 52w high 1277.00
-BLACKBUCK,S2_no_new_high,day high 634.40 < 52w high 748.00
-SIKA,S2_data,DATA UNAVAILABLE (19 bars)
-UGARSUGAR,S1_off_high,closed 8.0% off day high
 HLEGLAS,S2_no_new_high,day high 404.35 < 52w high 661.95
