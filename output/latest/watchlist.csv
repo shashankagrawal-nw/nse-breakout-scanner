@@ -1,4 +1,0 @@
-symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-GAYAPROJ,Gayatri Projects Limited,WATCH,26.03,23.52,2.8,2026-06-18,4.6,1.0,47.6,29.2,0.0,7.0,52w_high,True,False,True,2,
-GRANULES,Granules India Limited,WATCH,909.3,889.85,1.9,2026-07-16,2.8,0.92,25.9,10.5,0.11,703.0,52w_high+volume_gainer,True,False,True,2,
-WABAG,VA Tech Wabag Limited,WATCH,2277.9,2221.2,2.0,2026-07-13,1.8,0.88,41.6,17.6,1.6,508.3,52w_high,True,False,True,2,
