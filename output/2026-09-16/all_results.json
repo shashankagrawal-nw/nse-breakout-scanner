@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "FOSECOIND",
+  "name": "Foseco India Limited",
+  "bucket": "WATCH",
+  "close": 6846.5,
+  "breakout_level": 6362.0,
+  "base_months": 0.6,
+  "base_start": "2026-08-28",
+  "vol_x_10wk": 4.0,
+  "weekly_close_pos": 0.79,
+  "ext_vs_10m_ma_pct": 29.5,
+  "base_drawdown_pct": 8.6,
+  "off_high_pct": 2.13,
+  "turnover_cr": 121.0,
+  "sources": "52w_high+price_gainer+volume_gainer",
+  "weekly_candle_final": false,
+  "spliced_today": false,
+  "s3_pass": true,
+  "s4_score": 2,
+  "s3_fail": null
+ }
+]
