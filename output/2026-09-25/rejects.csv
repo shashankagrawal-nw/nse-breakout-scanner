@@ -1,0 +1,111 @@
+symbol,stage,detail
+AARTIPHARM,S1_base_short,base 2d — rolling high
+ABDL,S1_off_high,closed 5.2% off day high
+ACSTECH,S0_series,BE
+AEROPLANE,S1_base_short,base 2d — rolling high
+AHCL,S1_base_short,base 2d — rolling high
+AIMTRON,S0_series,SM
+AKANKSHA,S0_series,SM
+ALMONDZ,S1_base_short,base 1d — rolling high
+ARTEMISMED,S1_off_high,closed 5.5% off day high
+AXIOMGAS,S0_series,ST
+BHAGERIA,S1_base_short,base 4d — rolling high
+BLUEWATER,S0_series,ST
+BLUSPRING,S1_base_short,base 1d — rolling high
+DSKULKARNI,S0_series,BE
+DYNAMATECH,S1_base_short,base 2d — rolling high
+EKI,S1_off_high,closed 7.1% off day high
+ENGINERSIN,S1_base_short,base 2d — rolling high
+ETL,S0_series,SM
+FONEBOX,S0_series,ST
+GCSL,S1_base_short,base 2d — rolling high
+GFSTEELS,S0_series,BE
+GJL,S0_series,ST
+GNFC,S1_base_short,base 1d — rolling high
+GOLDSTAR,S0_series,SM
+HDFCLIQUID,S0_fund,ETF/index fund
+HEALTHADD,S0_fund,ETF/index fund
+HEROMOTORS,S1_base_short,base 1d — rolling high
+IMPEXFERRO,S0_series,BZ
+INDOMIM,S1_red_close,-3.06% on the day
+JSIPL,S0_series,BE
+KABRAEXTRU,S1_base_short,base 1d — rolling high
+KANORICHEM,S0_series,BE
+KAPSTON,S1_red_close,-6.59% on the day
+KATARIA,S0_series,SM
+LALITHAA,S1_red_close,-1.08% on the day
+LAMBODHARA,S1_off_high,closed 8.6% off day high
+LCL,S1_off_high,closed 3.1% off day high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+MANINDS,S1_base_short,base 2d — rolling high
+MBECL,S0_series,BE
+MCX,S1_red_close,-3.00% on the day
+METALIC,S0_series,ST
+MUKANDLTD,S1_base_short,base 1d — rolling high
+NAZARA,S1_base_short,base 1d — rolling high
+NRAIL,S1_base_short,base 10d — rolling high
+OPTIVALUE,S0_series,ST
+PANCHMAHQ,S1_off_high,closed 9.1% off day high
+PANORAMA,S1_base_short,base 1d — rolling high
+PARIN,S1_off_high,closed 7.3% off day high
+PGIL,S1_base_short,base 1d — rolling high
+PRASOLCHEM,S1_base_short,base 1d — rolling high
+PRIORITY,S1_off_high,closed 5.6% off day high
+PVTBANK,S0_fund,ETF/index fund
+QMSMEDI,S0_series,BE
+QUADFUTURE,S1_off_high,closed 3.3% off day high
+QUADPRO,S0_series,ST
+QUINT,S0_series,BE
+RAYMOND,S1_red_close,-1.73% on the day
+RAYMONDREL,S1_red_close,-0.04% on the day
+SAHASRA,S0_series,SM
+SALSTEEL,S1_base_short,base 1d — rolling high
+SBC,S1_base_short,base 4d — rolling high
+SHANTIGOLD,S1_off_high,closed 5.0% off day high
+SHEKHAWATI,S0_series,BE
+SHREEJISPG,S1_base_short,base 1d — rolling high
+SOMANYCERA,S1_base_short,base 1d — rolling high
+SOUTHBANK,S1_red_close,+0.00% on the day
+SPECTRAA,S0_series,ST
+SPECTRUM,S0_series,BE
+SSWL,S1_base_short,base 3d — rolling high
+STEAMHOUSE,S1_red_close,-3.20% on the day
+STEELCAS,S1_off_high,closed 4.1% off day high
+STLNETWORK,S1_base_short,base 1d — rolling high
+TECHNOCRAF,S1_base_short,base 2d — rolling high
+UGARSUGAR,S1_off_high,closed 3.5% off day high
+UTSSAV,S0_series,SM
+VELJAN,S0_series,BE
+WELCORP,S1_base_short,base 2d — rolling high
+BLUECLOUDS,S1_off_high,closed 5.0% off day high
+SENSEXAXIS,S0_fund,ETF/index fund
+WEALTH,S0_turnover,Rs 4.3 cr
+MOMETAL,S0_fund,ETF/index fund
+RAJSREESUG,S0_turnover,Rs 2.1 cr
+PACIFICI,S0_turnover,Rs 0.1 cr
+LORDSCHLO,S0_turnover,Rs 4.3 cr
+REPRO,S1_red_close,-0.73% on the day
+UTTAMSUGAR,S1_off_high,closed 4.0% off day high
+RETAIL,S0_turnover,Rs 0.2 cr
+PRIMO,S0_turnover,Rs 3.4 cr
+BANARBEADS,S0_turnover,Rs 0.5 cr
+RTSPOWR,S0_turnover,Rs 0.1 cr
+XELPMOC,S0_turnover,Rs 1.1 cr
+CENTEXT-RE,S0_series,BE
+LANDSMILL,S0_turnover,Rs 0.4 cr
+COMFINTE,S0_turnover,Rs 0.9 cr
+KMSUGAR,S0_turnover,Rs 3.8 cr
+SSDL,S0_turnover,Rs 3.1 cr
+BPLPHARMA,S2_data,DATA UNAVAILABLE (28 bars)
+SEDEMAC,S2_data,DATA UNAVAILABLE (139 bars)
+TGVSL,S2_data,DATA UNAVAILABLE (29 bars)
+TCI,S1_off_high,closed 7.5% off day high
+HERANBA,S1_off_high,closed 5.7% off day high
+SDBL,S2_no_new_high,day high 76.21 < 52w high 141.90
+ADSL,S2_no_new_high,day high 115.52 < 52w high 204.65
+SANGAMIND,S2_no_new_high,day high 624.90 < 52w high 672.50
+SVLL,S2_no_new_high,day high 840.05 < 52w high 897.45
+SHOPERSTOP,S1_off_high,closed 3.7% off day high
+MAWANASUG,S2_no_new_high,day high 153.51 < 52w high 164.00
+DWARKESH,S2_no_new_high,day high 45.62 < 52w high 59.90
