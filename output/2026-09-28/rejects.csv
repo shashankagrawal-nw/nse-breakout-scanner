@@ -1,0 +1,128 @@
+symbol,stage,detail
+AARNAV,S0_series,BE
+AEROPLANE,S1_red_close,-4.04% on the day
+AHCL,S1_base_short,base 3d — rolling high
+ALMONDZ,S0_series,BE
+ALUFLUOR,S1_off_high,closed 6.0% off day high
+ANAWIL,S0_series,SM
+APSISAERO,S0_series,ST
+BHAGERIA,S1_red_close,-3.52% on the day
+BLISSGVS,S0_series,BE
+BLUEWATER,S0_series,ST
+BLUSPRING,S1_base_short,base 3d — rolling high
+BODALCHEM,S1_base_short,base 6d — rolling high
+BPLPHARMA,S1_off_high,closed 5.6% off day high
+CREDENT,S0_series,SM
+CUBEXTUB,S1_base_short,base 3d — rolling high
+CURIS,S0_series,ST
+DSKULKARNI,S0_series,BE
+DYNAMATECH,S1_base_short,base 3d — rolling high
+EMIL,S1_red_close,-3.58% on the day
+ENGINERSIN,S1_red_close,-0.74% on the day
+ESAFSFB,S0_series,BE
+FILATEX,S1_base_short,base 5d — rolling high
+FONEBOX,S0_series,ST
+GANESHBE,S0_series,BE
+GCSL,S1_base_short,base 3d — rolling high
+GFSTEELS,S0_series,BE
+GJL,S0_series,ST
+GOLDSTAR,S0_series,SM
+GRAUWEIL,S1_red_close,-5.14% on the day
+GSEC10ABSL,S0_fund,ETF/index fund
+HALDYNGL,S1_off_high,closed 5.5% off day high
+HDFCLIQUID,S0_fund,ETF/index fund
+HEALTHIETF,S0_fund,ETF/index fund
+HEROMOTORS,S1_red_close,-4.72% on the day
+HOLMARC,S0_series,SM
+IGPL,S1_red_close,-1.93% on the day
+IMPEXFERRO,S0_series,BZ
+INDOAMIN,S1_off_high,closed 10.1% off day high
+INTEGRITY,S0_series,SM
+INVPRECQ,S0_series,BE
+IVP,S0_series,BE
+IWP,S0_turnover,Rs 3.6 cr
+JSIPL,S0_series,BE
+KABRAEXTRU,S1_off_high,closed 3.8% off day high
+KANORICHEM,S0_series,BE
+KMCSHIL,S1_off_high,closed 9.1% off day high
+KOPRAN,S1_red_close,-2.65% on the day
+KRISHCA,S0_series,SM
+LIQUIDADD,S0_fund,ETF/index fund
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+MACPOWER,S1_base_short,base 7d — rolling high
+MBECL,S0_series,BE
+METALIC,S0_series,ST
+MUKANDLTD,S1_base_short,base 3d — rolling high
+NAMOEWASTE,S0_series,SM
+NRAIL,S1_red_close,-3.26% on the day
+NRBBEARING,S1_off_high,closed 3.5% off day high
+NURECA,S0_series,BE
+PANORAMA,S1_red_close,-5.71% on the day
+PGIL,S1_red_close,-2.83% on the day
+PRASOLCHEM,S1_base_short,base 3d — rolling high
+PRIMO,S1_off_high,closed 5.0% off day high
+PSRAJ,S0_series,SM
+QMSMEDI,S0_series,BE
+QUADFUTURE,S1_red_close,-2.83% on the day
+QUADPRO,S0_series,ST
+RAYMOND,S1_red_close,-1.31% on the day
+ROLEXRINGS,S1_red_close,-0.82% on the day
+RTSPOWR,S0_turnover,Rs 1.4 cr
+RUBYMILLS,S1_off_high,closed 3.9% off day high
+SAHASRA,S0_series,SM
+SALSTEEL,S1_base_short,base 3d — rolling high
+SAMBHV,S1_red_close,-3.34% on the day
+SAYAJIIND,S1_red_close,-4.81% on the day
+SBC,S1_off_high,closed 5.9% off day high
+SEDEMAC,S1_base_short,base 3d — rolling high
+SHEKHAWATI,S0_series,BE
+SHIVAUM,S1_base_short,base 4d — rolling high
+SHREEJISPG,S1_red_close,-0.72% on the day
+SHRIPISTON,S1_red_close,-2.14% on the day
+SHUKRAPHAR,S1_base_short,base 5d — rolling high
+SIMCA,S0_series,ST
+SMCGLOBAL,S1_off_high,closed 4.2% off day high
+SOMANYCERA,S1_base_short,base 3d — rolling high
+SPECTRAA,S0_series,ST
+SPECTRUM,S0_series,BE
+STLNETWORK,S1_red_close,-5.00% on the day
+SYNCOMF,S1_off_high,closed 4.6% off day high
+TATVA,S1_red_close,-1.74% on the day
+TGVSL,S1_red_close,-2.74% on the day
+UGARSUGAR,S1_red_close,-2.39% on the day
+VELJAN,S0_series,BE
+VETO,S1_red_close,-1.21% on the day
+WELCORP,S1_red_close,-2.77% on the day
+ZYDUSLIFE,S1_base_short,base 3d — rolling high
+BANK10BETF,S0_fund,ETF/index fund
+ARYAMAN,S0_turnover,Rs 1.9 cr
+SECLEDBETA,S0_fund,ETF/index fund
+NIF500BETA,S0_fund,ETF/index fund
+MOQUALITY,S0_fund,ETF/index fund
+SHRIKRISH,S0_turnover,Rs 0.0 cr
+STARTECK,S0_turnover,Rs 0.4 cr
+BBETF0432,S0_fund,ETF/index fund
+IVZBANKNF,S0_fund,ETF/index fund
+CLEANMAX,S1_red_close,-2.04% on the day
+KOTYARK,S0_turnover,Rs 4.9 cr
+RHL,S0_turnover,Rs 0.5 cr
+RETAIL,S0_turnover,Rs 0.3 cr
+TNTELE,S0_turnover,Rs 0.2 cr
+LANDSMILL,S0_turnover,Rs 1.2 cr
+REPRO,S1_off_high,closed 3.7% off day high
+SSDL,S1_off_high,closed 4.7% off day high
+WEALTH,S0_turnover,Rs 3.7 cr
+COMFINTE,S0_turnover,Rs 2.8 cr
+HINDCON,S0_turnover,Rs 0.5 cr
+ARVEE,S0_turnover,Rs 0.7 cr
+3BBLACKBIO,S2_data,DATA UNAVAILABLE (30 bars)
+ELECTCAST,S2_no_new_high,day high 72.40 < 52w high 99.00
+RSYSTEMS,S2_no_new_high,day high 282.74 < 52w high 435.90
+INDOBORAX,S2_no_new_high,day high 482.00 < 52w high 542.80
+DAMCAPITAL,S2_no_new_high,day high 163.75 < 52w high 286.00
+PFS,S2_no_new_high,day high 26.99 < 52w high 40.50
+TTML,S2_no_new_high,day high 36.18 < 52w high 60.08
+RHETAN,S2_data,DATA UNAVAILABLE (252 bars)
+JINDRILL,S2_no_new_high,day high 621.40 < 52w high 704.40
+KRISHIVAL,S2_no_new_high,day high 414.00 < 52w high 508.00
