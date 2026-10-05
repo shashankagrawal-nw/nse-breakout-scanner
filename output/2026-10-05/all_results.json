@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "MARINE",
+  "name": "Marine Electricals (India) Limited",
+  "bucket": "REJECTED",
+  "close": 468.0,
+  "breakout_level": 436.55,
+  "base_months": 1.1,
+  "base_start": "2026-09-03",
+  "vol_x_10wk": 0.7,
+  "weekly_close_pos": 0.82,
+  "ext_vs_10m_ma_pct": 63.0,
+  "base_drawdown_pct": 21.6,
+  "off_high_pct": 1.45,
+  "turnover_cr": 253.9,
+  "sources": "52w_high",
+  "weekly_candle_final": false,
+  "spliced_today": true,
+  "s3_pass": false,
+  "s4_score": 2,
+  "s3_fail": "c3 volume 0.7x < 1.5x"
+ }
+]
