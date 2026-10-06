@@ -1,0 +1,115 @@
+symbol,stage,detail
+AAREYDRUGS,S1_base_short,base 5d — rolling high
+AARNAV,S0_series,BE
+ADISOFT,S0_series,SM
+AEQUS,S1_base_short,base 1d — rolling high
+AGARWALTUF,S0_series,SM
+AKANKSHA,S0_series,SM
+ANKITMETAL,S0_series,BZ
+ARABIAN,S0_series,SM
+BHADORA,S0_series,ST
+BMISL,S0_series,ST
+COREIN,S0_series,ST
+CPCAP,S1_off_high,closed 4.5% off day high
+CPPLUS,S1_red_close,-0.19% on the day
+CUPID,S1_base_short,base 1d — rolling high
+DELTACORP,S1_red_close,-1.38% on the day
+DMCC,S1_off_high,closed 5.4% off day high
+DSKULKARNI,S0_series,BE
+DYNAMATECH,S1_base_short,base 1d — rolling high
+FEDDERSHOL,S1_off_high,closed 15.1% off day high
+GCSL,S1_base_short,base 1d — rolling high
+GJL,S0_series,ST
+GTECJAINX,S1_red_close,-4.11% on the day
+HFCL,S0_series,BE
+HOLMARC,S0_series,SM
+INDOAMIN,S1_off_high,closed 4.4% off day high
+INFINIUM,S0_series,SM
+INVPRECQ,S0_series,BE
+JAYKAY,S1_base_short,base 1d — rolling high
+JNPR,S1_base_short,base 6d — rolling high
+JSIPL,S0_series,BE
+KARAMTARA,S1_base_short,base 1d — rolling high
+KILITCH,S1_base_short,base 1d — rolling high
+KINGFA,S1_base_short,base 1d — rolling high
+LALITHAA,S1_base_short,base 1d — rolling high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+LOKESHMACH,S1_off_high,closed 4.2% off day high
+LOTUSDEV,S0_series,BE
+MAFANG,S0_fund,ETF/index fund
+MANIKA,S1_base_short,base 6d — rolling high
+MARINE,S1_base_short,base 1d — rolling high
+MBECL,S0_series,BE
+MOREPENLAB,S1_base_short,base 1d — rolling high
+MVELECTRO,S1_off_high,closed 4.0% off day high
+NAMOEWASTE,S0_series,SM
+OCCLLTD,S0_series,BE
+ONELIFECAP,S0_series,BE
+OPTIEMUS,S1_off_high,closed 4.2% off day high
+PANACHE,S0_series,BE
+PARTY-RE,S0_series,ST
+PRIZOR,S0_series,ST
+QPOWER,S1_base_short,base 6d — rolling high
+RAMBHAJO,S1_base_short,base 1d — rolling high
+RAYMOND,S1_red_close,-1.21% on the day
+RFBL,S0_series,ST
+ROSSTECH,S1_off_high,closed 4.9% off day high
+ROXHITECH,S0_series,SM
+SAHASRA,S0_series,SM
+SBC,S1_red_close,-0.47% on the day
+SHAHINVEST,S0_series,BE
+SHANTIINOR,S0_series,SM
+SHREEJISPG,S1_base_short,base 1d — rolling high
+SHUKRAPHAR,S1_off_high,closed 3.4% off day high
+SIGMAADV,S0_series,BE
+SIMCA,S0_series,ST
+SMCGLOBAL,S1_red_close,-3.93% on the day
+SOMANYCERA,S1_base_short,base 1d — rolling high
+SPECTRAA,S0_series,ST
+SRIT,S0_series,BE
+SSWL,S1_base_short,base 5d — rolling high
+STLTECH,S0_series,BE
+SUNFLAG,S1_base_short,base 6d — rolling high
+SURANI,S0_series,SM
+TATVA,S1_base_short,base 8d — rolling high
+TAURIAN,S0_series,ST
+TEAMTECH,S0_series,ST
+THELEELA,S1_base_short,base 6d — rolling high
+TIMEX,S1_red_close,-0.90% on the day
+UTSSAV,S0_series,SM
+UYFINCORP,S0_series,BE
+VALIANTORG,S1_base_short,base 1d — rolling high
+VELJAN,S0_series,BE
+YUKEN,S1_off_high,closed 7.2% off day high
+ALKYLAMINE,S1_off_high,closed 5.1% off day high
+PVTBANKADD,S0_fund,ETF/index fund
+HBESD,S0_turnover,Rs 1.5 cr
+BANK10ADD,S0_fund,ETF/index fund
+DIAMINESQ,S0_turnover,Rs 0.8 cr
+SINDHUTRAD,S1_red_close,-0.59% on the day
+MOMENTUM30,S0_fund,ETF/index fund
+ANIKINDS,S0_turnover,Rs 0.3 cr
+CORALFINAC,S0_turnover,Rs 0.9 cr
+AMNPLST,S1_off_high,closed 4.0% off day high
+DHANBANK,S1_off_high,closed 4.0% off day high
+HYBRIDETF,S0_fund,ETF/index fund
+DPWIRES,S1_off_high,closed 5.2% off day high
+MONQ50,S1_off_high,closed 7.6% off day high
+FERMENTA,S2_data,DATA UNAVAILABLE (36 bars)
+GLOBAL,S0_turnover,Rs 3.0 cr
+INDOMIM,S2_data,DATA UNAVAILABLE (49 bars)
+LCL,S2_data,DATA UNAVAILABLE (48 bars)
+MMWL,S2_data,DATA UNAVAILABLE (118 bars)
+STEAMHOUSE,S2_data,DATA UNAVAILABLE (13 bars)
+MOBIKWIK,S2_no_new_high,day high 242.14 < 52w high 296.70
+CELLO,S2_no_new_high,day high 368.00 < 52w high 673.80
+TAALTECH,S2_data,DATA UNAVAILABLE (36 bars)
+BALAMINES,S2_no_new_high,day high 2349.30 < 52w high 2629.80
+HITECH,S2_no_new_high,day high 74.80 < 52w high 123.80
+PRADPME,S2_data,DATA UNAVAILABLE (34 bars)
+TRENT,S2_no_new_high,day high 2914.00 < 52w high 4908.00
+ARFIN,S2_no_new_high,day high 98.24 < 52w high 106.20
+DBOL,S2_no_new_high,day high 138.98 < 52w high 139.00
+MOL,S2_no_new_high,day high 61.85 < 52w high 85.35
+GENUSPOWER,S2_no_new_high,day high 309.70 < 52w high 363.00
