@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "PCJEWELLER",
+  "name": "PC Jeweller Limited",
+  "bucket": "WATCH",
+  "close": 14.81,
+  "breakout_level": 14.11,
+  "base_months": 0.5,
+  "base_start": "2026-09-23",
+  "vol_x_10wk": 1.6,
+  "weekly_close_pos": 0.91,
+  "ext_vs_10m_ma_pct": 42.3,
+  "base_drawdown_pct": 15.5,
+  "off_high_pct": 1.67,
+  "turnover_cr": 1326.6,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
+  "spliced_today": false,
+  "s3_pass": true,
+  "s4_score": 2,
+  "s3_fail": null
+ }
+]
