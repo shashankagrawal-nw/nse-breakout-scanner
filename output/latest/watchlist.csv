@@ -1,2 +1,2 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-PCJEWELLER,PC Jeweller Limited,WATCH,14.81,14.11,0.5,2026-09-23,1.6,0.91,42.3,15.5,1.67,1326.6,52w_high,True,False,True,2,
+WSTCSTPAPR,West Coast Paper Mills Limited,WATCH,873.15,768.3,0.7,2026-09-21,3.1,1.0,57.8,10.7,0.0,379.7,52w_high+price_gainer+volume_gainer,False,True,True,2,
