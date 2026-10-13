@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+UTTAMSUGAR,Uttam Sugar Mills Limited,WATCH,376.0,323.3,1.6,2026-08-24,3.7,0.94,45.5,32.1,1.29,140.7,52w_high+price_gainer,False,True,True,2,
