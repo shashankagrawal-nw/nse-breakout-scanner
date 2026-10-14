@@ -13,30 +13,30 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 102
-prescreen survivors 12
-confirmed 0 | watch 1 | rejected 101
-reject reasons: S0_series=28, S0_turnover=19, S1_base_short=14, S1_off_high=13, S1_red_close=10, S2_no_new_high=9, S0_fund=6
+candidates 100
+prescreen survivors 16
+confirmed 0 | watch 1 | rejected 99
+reject reasons: S0_series=25, S1_off_high=24, S1_base_short=18, S0_turnover=10, S1_red_close=6, S0_fund=6, S2_no_new_high=5, S2_data=4
 
 Classified names (JSON):
 [
  {
-  "symbol": "UTTAMSUGAR",
-  "name": "Uttam Sugar Mills Limited",
+  "symbol": "PASUPTAC",
+  "name": "Pasupati Acrylon Limited",
   "bucket": "WATCH",
-  "close": 376.0,
-  "breakout_level": 323.3,
-  "base_months": 1.6,
-  "base_start": "2026-08-24",
-  "vol_x_10wk": 3.7,
-  "weekly_close_pos": 0.94,
-  "ext_vs_10m_ma_pct": 45.5,
-  "base_drawdown_pct": 32.1,
-  "off_high_pct": 1.29,
-  "turnover_cr": 140.7,
-  "sources": "52w_high+price_gainer",
+  "close": 84.28,
+  "breakout_level": 75.87,
+  "base_months": 0.7,
+  "base_start": "2026-09-23",
+  "vol_x_10wk": 7.6,
+  "weekly_close_pos": 0.88,
+  "ext_vs_10m_ma_pct": 42.7,
+  "base_drawdown_pct": 18.4,
+  "off_high_pct": 1.77,
+  "turnover_cr": 45.4,
+  "sources": "52w_high+price_gainer+volume_gainer",
   "weekly_candle_final": false,
-  "spliced_today": true,
+  "spliced_today": false,
   "s3_pass": true,
   "s4_score": 2,
   "s3_fail": null
