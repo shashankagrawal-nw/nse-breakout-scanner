@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+SOUTHBANK,The South Indian Bank Limited,CONFIRMED,51.48,49.95,0.7,2026-09-25,2.2,0.86,19.3,9.0,1.11,395.5,52w_high,False,False,True,3,

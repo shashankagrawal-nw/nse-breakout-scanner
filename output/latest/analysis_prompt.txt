@@ -13,32 +13,32 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 100
-prescreen survivors 16
-confirmed 0 | watch 1 | rejected 99
-reject reasons: S0_series=25, S1_off_high=24, S1_base_short=18, S0_turnover=10, S1_red_close=6, S0_fund=6, S2_no_new_high=5, S2_data=4
+candidates 106
+prescreen survivors 15
+confirmed 1 | watch 0 | rejected 105
+reject reasons: S1_off_high=25, S0_series=24, S1_red_close=19, S0_turnover=18, S1_base_short=7, S0_fund=5, S2_no_new_high=4, S2_data=2
 
 Classified names (JSON):
 [
  {
-  "symbol": "PASUPTAC",
-  "name": "Pasupati Acrylon Limited",
-  "bucket": "WATCH",
-  "close": 84.28,
-  "breakout_level": 75.87,
+  "symbol": "SOUTHBANK",
+  "name": "The South Indian Bank Limited",
+  "bucket": "CONFIRMED",
+  "close": 51.48,
+  "breakout_level": 49.95,
   "base_months": 0.7,
-  "base_start": "2026-09-23",
-  "vol_x_10wk": 7.6,
-  "weekly_close_pos": 0.88,
-  "ext_vs_10m_ma_pct": 42.7,
-  "base_drawdown_pct": 18.4,
-  "off_high_pct": 1.77,
-  "turnover_cr": 45.4,
-  "sources": "52w_high+price_gainer+volume_gainer",
+  "base_start": "2026-09-25",
+  "vol_x_10wk": 2.2,
+  "weekly_close_pos": 0.86,
+  "ext_vs_10m_ma_pct": 19.3,
+  "base_drawdown_pct": 9.0,
+  "off_high_pct": 1.11,
+  "turnover_cr": 395.5,
+  "sources": "52w_high",
   "weekly_candle_final": false,
   "spliced_today": false,
   "s3_pass": true,
-  "s4_score": 2,
+  "s4_score": 3,
   "s3_fail": null
  }
 ]
