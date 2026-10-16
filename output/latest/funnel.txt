@@ -1,4 +1,4 @@
-candidates 106
-prescreen survivors 15
-confirmed 1 | watch 0 | rejected 105
-reject reasons: S1_off_high=25, S0_series=24, S1_red_close=19, S0_turnover=18, S1_base_short=7, S0_fund=5, S2_no_new_high=4, S2_data=2
+candidates 93
+prescreen survivors 26
+confirmed 2 | watch 0 | rejected 91
+reject reasons: S0_series=24, S1_base_short=15, S1_off_high=13, S0_turnover=9, S2_no_new_high=9, S1_red_close=7, S0_fund=7, S2_data=3

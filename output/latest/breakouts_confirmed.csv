@@ -1,2 +1,3 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-SOUTHBANK,The South Indian Bank Limited,CONFIRMED,51.48,49.95,0.7,2026-09-25,2.2,0.86,19.3,9.0,1.11,395.5,52w_high,False,False,True,3,
+TIPSMUSIC,Tips Music Limited,CONFIRMED,746.9,711.55,2.9,2026-07-20,8.3,0.9,19.8,17.4,0.92,333.7,52w_high,True,False,True,3,
+INDHOTEL,The Indian Hotels Company Limited,CONFIRMED,772.1,752.3,2.5,2026-07-31,1.8,0.94,12.0,7.4,0.52,720.6,52w_high,True,False,True,3,

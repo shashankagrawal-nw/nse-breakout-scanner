@@ -13,29 +13,50 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 106
-prescreen survivors 15
-confirmed 1 | watch 0 | rejected 105
-reject reasons: S1_off_high=25, S0_series=24, S1_red_close=19, S0_turnover=18, S1_base_short=7, S0_fund=5, S2_no_new_high=4, S2_data=2
+candidates 93
+prescreen survivors 26
+confirmed 2 | watch 0 | rejected 91
+reject reasons: S0_series=24, S1_base_short=15, S1_off_high=13, S0_turnover=9, S2_no_new_high=9, S1_red_close=7, S0_fund=7, S2_data=3
 
 Classified names (JSON):
 [
  {
-  "symbol": "SOUTHBANK",
-  "name": "The South Indian Bank Limited",
+  "symbol": "INDHOTEL",
+  "name": "The Indian Hotels Company Limited",
   "bucket": "CONFIRMED",
-  "close": 51.48,
-  "breakout_level": 49.95,
-  "base_months": 0.7,
-  "base_start": "2026-09-25",
-  "vol_x_10wk": 2.2,
-  "weekly_close_pos": 0.86,
-  "ext_vs_10m_ma_pct": 19.3,
-  "base_drawdown_pct": 9.0,
-  "off_high_pct": 1.11,
-  "turnover_cr": 395.5,
+  "close": 772.1,
+  "breakout_level": 752.3,
+  "base_months": 2.5,
+  "base_start": "2026-07-31",
+  "vol_x_10wk": 1.8,
+  "weekly_close_pos": 0.94,
+  "ext_vs_10m_ma_pct": 12.0,
+  "base_drawdown_pct": 7.4,
+  "off_high_pct": 0.52,
+  "turnover_cr": 720.6,
   "sources": "52w_high",
-  "weekly_candle_final": false,
+  "weekly_candle_final": true,
+  "spliced_today": false,
+  "s3_pass": true,
+  "s4_score": 3,
+  "s3_fail": null
+ },
+ {
+  "symbol": "TIPSMUSIC",
+  "name": "Tips Music Limited",
+  "bucket": "CONFIRMED",
+  "close": 746.9,
+  "breakout_level": 711.55,
+  "base_months": 2.9,
+  "base_start": "2026-07-20",
+  "vol_x_10wk": 8.3,
+  "weekly_close_pos": 0.9,
+  "ext_vs_10m_ma_pct": 19.8,
+  "base_drawdown_pct": 17.4,
+  "off_high_pct": 0.92,
+  "turnover_cr": 333.7,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
   "spliced_today": false,
   "s3_pass": true,
   "s4_score": 3,
