@@ -13,53 +13,32 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 93
-prescreen survivors 26
-confirmed 2 | watch 0 | rejected 91
-reject reasons: S0_series=24, S1_base_short=15, S1_off_high=13, S0_turnover=9, S2_no_new_high=9, S1_red_close=7, S0_fund=7, S2_data=3
+candidates 102
+prescreen survivors 14
+confirmed 0 | watch 1 | rejected 101
+reject reasons: S0_series=24, S1_red_close=17, S0_turnover=15, S1_base_short=13, S1_off_high=10, S0_fund=9, S2_no_new_high=8, S2_data=2
 
 Classified names (JSON):
 [
  {
-  "symbol": "INDHOTEL",
-  "name": "The Indian Hotels Company Limited",
-  "bucket": "CONFIRMED",
-  "close": 772.1,
-  "breakout_level": 752.3,
-  "base_months": 2.5,
-  "base_start": "2026-07-31",
-  "vol_x_10wk": 1.8,
-  "weekly_close_pos": 0.94,
-  "ext_vs_10m_ma_pct": 12.0,
-  "base_drawdown_pct": 7.4,
-  "off_high_pct": 0.52,
-  "turnover_cr": 720.6,
-  "sources": "52w_high",
-  "weekly_candle_final": true,
-  "spliced_today": false,
+  "symbol": "SMARTLINK",
+  "name": "Smartlink Holdings Limited",
+  "bucket": "WATCH",
+  "close": 257.78,
+  "breakout_level": 230.3,
+  "base_months": 1.1,
+  "base_start": "2026-09-15",
+  "vol_x_10wk": 12.8,
+  "weekly_close_pos": 1.0,
+  "ext_vs_10m_ma_pct": 50.3,
+  "base_drawdown_pct": 16.0,
+  "off_high_pct": 0.0,
+  "turnover_cr": 8.7,
+  "sources": "52w_high+price_gainer+volume_gainer",
+  "weekly_candle_final": false,
+  "spliced_today": true,
   "s3_pass": true,
-  "s4_score": 3,
-  "s3_fail": null
- },
- {
-  "symbol": "TIPSMUSIC",
-  "name": "Tips Music Limited",
-  "bucket": "CONFIRMED",
-  "close": 746.9,
-  "breakout_level": 711.55,
-  "base_months": 2.9,
-  "base_start": "2026-07-20",
-  "vol_x_10wk": 8.3,
-  "weekly_close_pos": 0.9,
-  "ext_vs_10m_ma_pct": 19.8,
-  "base_drawdown_pct": 17.4,
-  "off_high_pct": 0.92,
-  "turnover_cr": 333.7,
-  "sources": "52w_high",
-  "weekly_candle_final": true,
-  "spliced_today": false,
-  "s3_pass": true,
-  "s4_score": 3,
+  "s4_score": 2,
   "s3_fail": null
  }
 ]
