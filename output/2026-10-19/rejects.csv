@@ -88,11 +88,11 @@ VTMLTD,S0_turnover,Rs 1.0 cr
 SRTL,S0_turnover,Rs 0.2 cr
 SHERVANI,S0_turnover,Rs 0.0 cr
 COMFINTE,S2_data,DATA UNAVAILABLE (43 bars)
-JUSTDIAL,S2_no_new_high,day high 745.00 < 52w high 878.60
+JUSTDIAL,S1_off_high,closed 8.8% off day high
 GANESHCP,S2_no_new_high,day high 176.00 < 52w high 307.40
-DODLA,S2_no_new_high,day high 1011.00 < 52w high 1370.00
-INDNIPPON,S2_no_new_high,day high 1225.00 < 52w high 1564.00
-GABRIEL,S2_no_new_high,day high 1494.00 < 52w high 1600.00
+DODLA,S1_off_high,closed 9.1% off day high
+INDNIPPON,S1_off_high,closed 4.0% off day high
+GABRIEL,S1_off_high,closed 4.6% off day high
 DCMSRIND,S2_no_new_high,day high 47.90 < 52w high 179.90
 MIDWESTLTD,S2_data,DATA UNAVAILABLE (244 bars)
 EUROPRATIK,S2_no_new_high,day high 202.50 < 52w high 390.00

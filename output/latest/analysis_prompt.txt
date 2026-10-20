@@ -16,7 +16,7 @@ Funnel summary:
 candidates 102
 prescreen survivors 14
 confirmed 0 | watch 1 | rejected 101
-reject reasons: S0_series=24, S1_red_close=17, S0_turnover=15, S1_base_short=13, S1_off_high=10, S0_fund=9, S2_no_new_high=8, S2_data=2
+reject reasons: S0_series=24, S1_red_close=17, S0_turnover=15, S1_off_high=14, S1_base_short=13, S0_fund=9, S2_no_new_high=4, S2_data=2
 
 Classified names (JSON):
 [
@@ -24,19 +24,19 @@ Classified names (JSON):
   "symbol": "SMARTLINK",
   "name": "Smartlink Holdings Limited",
   "bucket": "WATCH",
-  "close": 257.78,
+  "close": 256.98,
   "breakout_level": 230.3,
   "base_months": 1.1,
   "base_start": "2026-09-15",
   "vol_x_10wk": 12.8,
-  "weekly_close_pos": 1.0,
-  "ext_vs_10m_ma_pct": 50.3,
+  "weekly_close_pos": 0.98,
+  "ext_vs_10m_ma_pct": 49.9,
   "base_drawdown_pct": 16.0,
   "off_high_pct": 0.0,
   "turnover_cr": 8.7,
   "sources": "52w_high+price_gainer+volume_gainer",
   "weekly_candle_final": false,
-  "spliced_today": true,
+  "spliced_today": false,
   "s3_pass": true,
   "s4_score": 2,
   "s3_fail": null

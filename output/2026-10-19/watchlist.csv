@@ -1,2 +1,2 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-SMARTLINK,Smartlink Holdings Limited,WATCH,257.78,230.3,1.1,2026-09-15,12.8,1.0,50.3,16.0,0.0,8.7,52w_high+price_gainer+volume_gainer,False,True,True,2,
+SMARTLINK,Smartlink Holdings Limited,WATCH,256.98,230.3,1.1,2026-09-15,12.8,0.98,49.9,16.0,0.0,8.7,52w_high+price_gainer+volume_gainer,False,False,True,2,
