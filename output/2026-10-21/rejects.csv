@@ -1,0 +1,77 @@
+symbol,stage,detail
+AGOL,S1_base_short,base 2d — rolling high
+ALGOQUANT,S1_red_close,-0.77% on the day
+AMBANIORGO,S0_series,SM
+BMISL,S0_series,SM
+CASHIETF,S0_fund,ETF/index fund
+CKKRETAIL,S0_series,ST
+COMFINTE,S1_base_short,base 2d — rolling high
+CUBEXTUB,S0_series,BE
+DEEPA,S1_red_close,-7.06% on the day
+DHANBANK,S1_red_close,-4.64% on the day
+DSKULKARNI,S0_series,BE
+ESCONET,S0_series,ST
+FWSTC,S0_series,SM
+GLOBAL,S1_base_short,base 6d — rolling high
+HDFIRE,S1_red_close,-9.70% on the day
+HFCL,S0_series,BE
+HFTSEINDIA,S0_fund,ETF/index fund
+KARURVYSYA,S1_red_close,-2.99% on the day
+KORE,S0_series,ST
+KRISHANA,S1_red_close,-1.36% on the day
+LAGNAM,S1_off_high,closed 9.2% off day high
+LIQGRWBEES,S0_fund,ETF/index fund
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+LOANFRONT,S0_series,ST
+MEGAFLEX,S0_series,SM
+MUFIN,S1_red_close,-5.42% on the day
+MVGJL,S1_red_close,-8.11% on the day
+OAL,S1_red_close,-4.20% on the day
+PCJEWELLER,S1_base_short,base 2d — rolling high
+PRISMX,S1_off_high,closed 13.9% off day high
+QUINTEGRA,S0_series,BE
+RAMBHAJO,S1_red_close,-2.63% on the day
+RBZJEWEL,S0_series,BE
+ROXHITECH,S0_series,ST
+RRECL,S1_red_close,-12.02% on the day
+SABAR,S0_series,ST
+SKYGOLD,S1_base_short,base 2d — rolling high
+SMARTLINK,S1_red_close,-12.48% on the day
+SOUTHBANK,S1_base_short,base 2d — rolling high
+SWARNSAR,S1_off_high,closed 4.4% off day high
+SWASTIKAIN,S1_red_close,-2.51% on the day
+TATVA,S1_red_close,-3.33% on the day
+VOLERCAR,S0_series,SM
+MANIPALHOS,S1_red_close,-0.02% on the day
+MSCIADD,S0_fund,ETF/index fund
+NKIND,S0_turnover,Rs 0.5 cr
+FRACTAL,S1_off_high,closed 4.2% off day high
+LTTS,S1_off_high,closed 3.6% off day high
+MCCHRLS-B,S1_red_close,-11.43% on the day
+ORIRAIL,S1_red_close,-0.99% on the day
+ADL,S0_turnover,Rs 0.0 cr
+ACEINTEG,S0_turnover,Rs 0.0 cr
+SIL,S0_turnover,Rs 1.7 cr
+LMW,S1_red_close,-0.51% on the day
+TRANSWORLD,S0_turnover,Rs 4.7 cr
+MHRIL,S1_red_close,-0.80% on the day
+KAMANWALA,S0_turnover,Rs 0.0 cr
+SHRIPISTON,S1_red_close,-3.55% on the day
+WENDT,S1_red_close,-4.60% on the day
+ECOSMOBLTY,S0_turnover,Rs 3.7 cr
+AARTECH,S0_turnover,Rs 3.6 cr
+AZADIND,S0_turnover,Rs 2.6 cr
+EMUDHRA,S1_red_close,-20.00% on the day
+REPL,S0_turnover,Rs 0.3 cr
+SHREERAMA,S0_turnover,Rs 2.5 cr
+KANANIIND,S0_turnover,Rs 0.2 cr
+RADAAN,S0_turnover,Rs 0.0 cr
+FILATFASH,S0_turnover,Rs 0.4 cr
+MANORG,S0_turnover,Rs 0.8 cr
+INDIACEM,S2_no_new_high,day high 348.70 < 52w high 485.80
+DCMSRIND,S2_no_new_high,day high 57.48 < 52w high 179.90
+TRANSRAILL,S1_off_high,closed 5.2% off day high
+UTTAMSUGAR,S2_no_new_high,day high 393.50 < 52w high 401.00
+TCC,S2_data,DATA UNAVAILABLE (160 bars)
+IPCALAB,S2_no_new_high,day high 1949.90 < 52w high 2038.00
