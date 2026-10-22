@@ -1,0 +1,60 @@
+symbol,stage,detail
+AGOL,S0_turnover,Rs 3.8 cr
+ALGOQUANT,S1_base_short,base 1d — rolling high
+CKKRETAIL,S0_series,ST
+COMFINTE,S1_red_close,-9.92% on the day
+DHANBANK,S1_base_short,base 1d — rolling high
+DSKULKARNI,S0_series,BE
+FUSIONCX,S1_red_close,-4.59% on the day
+FWSTC,S0_series,SM
+INDHOTEL,S1_base_short,base 6d — rolling high
+KORE,S0_series,ST
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+LOANFRONT,S0_series,ST
+MAHASTEEL,S0_series,BE
+ORIENTHOT,S1_base_short,base 6d — rolling high
+PCJEWELLER,S1_red_close,-2.76% on the day
+PVRINOX,S1_base_short,base 3d — rolling high
+QUINTEGRA,S0_series,BE
+RAVITA,S0_series,ST
+SABAR,S0_series,ST
+MSCIINDIA,S0_fund,ETF/index fund
+GROWWRLTY,S0_fund,ETF/index fund
+MIDQ50ADD,S0_fund,ETF/index fund
+REPL,S0_turnover,Rs 4.8 cr
+OMNI,S1_off_high,closed 4.3% off day high
+NGLFINE,S1_red_close,-0.85% on the day
+KEEPLEARN,S0_turnover,Rs 0.1 cr
+MTNL,S1_off_high,closed 5.5% off day high
+TINNARUBR,S1_red_close,-15.64% on the day
+DBEIL,S0_turnover,Rs 1.1 cr
+SGLRES,S0_turnover,Rs 0.2 cr
+KEI,S1_red_close,-8.45% on the day
+QUALITY30,S0_fund,ETF/index fund
+EMUDHRA,S1_red_close,-20.00% on the day
+ELMDIV,S0_fund,ETF/index fund
+BRIGHOTEL,S0_turnover,Rs 3.2 cr
+MCCHRLS-B,S0_turnover,Rs 0.2 cr
+MSL,S0_turnover,Rs 0.0 cr
+SEMAC,S0_turnover,Rs 0.1 cr
+KANANIIND,S0_turnover,Rs 0.2 cr
+AVONMORE,S0_turnover,Rs 0.8 cr
+SONAL,S0_turnover,Rs 0.0 cr
+BLUECOAST,S0_turnover,Rs 0.0 cr
+DBSTOCKBRO,S0_turnover,Rs 0.2 cr
+SURAJLTD,S0_turnover,Rs 0.2 cr
+AAATECH,S0_turnover,Rs 1.6 cr
+DCM,S0_turnover,Rs 0.1 cr
+PERMAGN,S2_data,DATA UNAVAILABLE (45 bars)
+SUNTECK,S1_off_high,closed 3.3% off day high
+TTML,S2_no_new_high,day high 38.47 < 52w high 58.25
+OPTIFIN,S2_data,DATA UNAVAILABLE (45 bars)
+MAHLIFE,S2_no_new_high,day high 359.50 < 52w high 427.05
+CAPILLARY,S2_data,DATA UNAVAILABLE (227 bars)
+GRWRHITECH,S1_off_high,closed 3.5% off day high
+SIL,S1_off_high,closed 14.3% off day high
+IGIL,S2_no_new_high,day high 353.20 < 52w high 388.30
+SAPPHIRE,S2_no_new_high,day high 197.98 < 52w high 310.50
+BETA,S2_no_new_high,day high 1997.60 < 52w high 2807.90
+MENONBE,S2_no_new_high,day high 277.00 < 52w high 330.00
