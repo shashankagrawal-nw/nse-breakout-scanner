@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "SSWL",
+  "name": "Steel Strips Wheels Limited",
+  "bucket": "WATCH",
+  "close": 468.75,
+  "breakout_level": 418.1,
+  "base_months": 0.6,
+  "base_start": "2026-10-06",
+  "vol_x_10wk": 2.8,
+  "weekly_close_pos": 1.0,
+  "ext_vs_10m_ma_pct": 71.9,
+  "base_drawdown_pct": 12.9,
+  "off_high_pct": 0.0,
+  "turnover_cr": 881.7,
+  "sources": "52w_high+price_gainer+volume_gainer",
+  "weekly_candle_final": true,
+  "spliced_today": false,
+  "s3_pass": true,
+  "s4_score": 2,
+  "s3_fail": null
+ }
+]
