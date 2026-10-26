@@ -1,0 +1,57 @@
+symbol,stage,detail
+BONFIG,S1_base_short,base 3d — rolling high
+CYIENT,S1_off_high,closed 3.1% off day high
+HDFCLIQUID,S0_fund,ETF/index fund
+IGIL,S1_base_short,base 3d — rolling high
+INDHOTEL,S1_base_short,base 4d — rolling high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSBI,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+MAHASTEEL,S0_series,BE
+MGEL,S1_off_high,closed 6.0% off day high
+MLKFOOD,S0_turnover,Rs 0.4 cr
+OPTIFIN,S1_red_close,-4.82% on the day
+PERMAGN,S1_base_short,base 4d — rolling high
+QUINTEGRA,S0_series,BE
+SHEETAL,S0_series,SM
+SIMCA,S0_series,ST
+SMT,S1_off_high,closed 7.5% off day high
+SSWL,S1_off_high,closed 3.7% off day high
+STEAMHOUSE,S1_off_high,closed 4.6% off day high
+TONBO,S1_off_high,closed 9.0% off day high
+MIDBANKADD,S0_fund,ETF/index fund
+VNL,S1_red_close,-10.00% on the day
+ASAL,S1_off_high,closed 4.7% off day high
+TECILCHEM,S0_turnover,Rs 0.0 cr
+UNIENTER,S0_turnover,Rs 0.4 cr
+BONLON,S0_turnover,Rs 0.2 cr
+LUMAXIND,S1_red_close,-6.76% on the day
+VINYLINDIA,S0_turnover,Rs 2.1 cr
+HILINFRA,S1_off_high,closed 4.6% off day high
+AONETOTAL,S0_fund,ETF/index fund
+MOSERVICE,S0_fund,ETF/index fund
+BLUECOAST,S0_turnover,Rs 0.0 cr
+KREBSBIO,S0_turnover,Rs 0.3 cr
+OSWALAGRO,S0_turnover,Rs 1.3 cr
+DOLLEX,S0_turnover,Rs 0.1 cr
+NARMADA,S0_turnover,Rs 0.9 cr
+VGL,S0_turnover,Rs 0.2 cr
+ATLASCYCLE,S0_turnover,Rs 0.1 cr
+ARIHANT,S0_turnover,Rs 0.3 cr
+TANAA,S1_off_high,closed 6.8% off day high
+VAKRANGEE,S0_turnover,Rs 2.6 cr
+BELDING,S2_data,DATA UNAVAILABLE (10 bars)
+TCIEXP,S2_no_new_high,day high 460.75 < 52w high 705.00
+MAHLOG,S2_no_new_high,day high 388.70 < 52w high 450.00
+EPACK,S2_no_new_high,day high 163.35 < 52w high 355.10
+BHARATCOAL,S2_data,DATA UNAVAILABLE (189 bars)
+MRPL,S2_no_new_high,day high 185.00 < 52w high 212.31
+INDOSTAR,S2_no_new_high,day high 185.80 < 52w high 292.00
+TATACHEM,S2_no_new_high,day high 596.60 < 52w high 934.00
+ERIS,S2_no_new_high,day high 1100.00 < 52w high 1740.00
+ITCHOTELS,S2_no_new_high,day high 164.30 < 52w high 226.63
+ABREL,S2_no_new_high,day high 1084.60 < 52w high 1914.00
+YASHO,S2_no_new_high,day high 3880.00 < 52w high 4994.00
+ATHERENERG,S2_no_new_high,day high 1623.00 < 52w high 1744.00
+FISCHER,S2_no_new_high,day high 27.90 < 52w high 121.70
+JYOTISTRUC,S2_no_new_high,day high 9.30 < 52w high 15.03
