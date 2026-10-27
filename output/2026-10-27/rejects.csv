@@ -1,0 +1,64 @@
+symbol,stage,detail
+ARABIAN,S0_series,SM
+BONFIG,S1_base_short,base 1d — rolling high
+DSKULKARNI,S0_series,BE
+ESCONET,S0_series,ST
+GCSL,S1_base_short,base 8d — rolling high
+IGIL,S1_off_high,closed 6.8% off day high
+INDHOTEL,S1_base_short,base 1d — rolling high
+KMEW,S1_red_close,-1.48% on the day
+LAURUSLABS,S1_base_short,base 8d — rolling high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSBI,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+MAHASTEEL,S0_series,BE
+OAL,S1_red_close,-0.33% on the day
+ONELIFECAP,S0_series,BE
+ORIENTHOT,S1_base_short,base 4d — rolling high
+PERMAGN,S1_off_high,closed 4.3% off day high
+PVRINOX,S1_base_short,base 5d — rolling high
+QUINTEGRA,S0_series,BE
+SIMCA,S0_series,ST
+SMT,S1_base_short,base 1d — rolling high
+STEAMHOUSE,S1_base_short,base 1d — rolling high
+UNITEDPOLY,S1_off_high,closed 4.8% off day high
+ZETWERK,S1_off_high,closed 6.0% off day high
+WEALTH,S0_turnover,Rs 4.8 cr
+SHIVAUM,S1_red_close,-0.52% on the day
+ATLASCYCLE,S0_turnover,Rs 1.7 cr
+BBL,S1_off_high,closed 3.4% off day high
+AGIIL,S1_off_high,closed 3.3% off day high
+KIRLPNU,S1_red_close,-9.60% on the day
+VNL,S1_red_close,-10.00% on the day
+DALBHARAT,S1_red_close,-6.63% on the day
+VGCL,S0_turnover,Rs 0.3 cr
+SENSEXAXIS,S0_fund,ETF/index fund
+INDOCO,S1_red_close,-0.14% on the day
+TERASOFT,S0_turnover,Rs 4.1 cr
+SHANTI,S0_turnover,Rs 0.2 cr
+BANKADD,S0_fund,ETF/index fund
+KRISHIVAL,S0_turnover,Rs 3.2 cr
+CENTENKA,S1_red_close,-9.36% on the day
+INDOUS,S0_turnover,Rs 0.2 cr
+ATLANTAA,S0_turnover,Rs 1.6 cr
+CIFL,S0_turnover,Rs 0.5 cr
+BRIGHTBR,S0_turnover,Rs 0.4 cr
+KHANDSE,S0_turnover,Rs 0.0 cr
+SSDL,S0_turnover,Rs 1.0 cr
+LINC,S0_turnover,Rs 1.1 cr
+LIBAS,S0_turnover,Rs 0.3 cr
+VIVOBIOT,S0_turnover,Rs 0.0 cr
+SINDHUTRAD,S0_turnover,Rs 1.8 cr
+TAMBOLIIN,S0_turnover,Rs 1.4 cr
+ALLTIME,S0_turnover,Rs 2.3 cr
+BHARATSE,S2_no_new_high,day high 213.67 < 52w high 263.18
+ONESOURCE,S2_no_new_high,day high 1605.00 < 52w high 1925.00
+BAJEL,S1_off_high,closed 4.2% off day high
+VINYLINDIA,S1_off_high,closed 5.1% off day high
+INDIAGLYCO,S2_no_new_high,day high 337.80 < 52w high 1222.00
+JISLJALEQS,S1_off_high,closed 4.5% off day high
+ZAGGLE,S1_off_high,closed 4.0% off day high
+VSSL,S1_off_high,closed 8.7% off day high
+JUBLINGREA,S1_off_high,closed 4.0% off day high
+HILINFRA,S2_no_new_high,day high 73.83 < 52w high 82.88
+OLAELEC,S2_no_new_high,day high 35.90 < 52w high 57.95
