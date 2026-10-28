@@ -1,2 +1,0 @@
-symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-ACUTAAS,Acutaas Chemicals Limited,CONFIRMED,3793.3,3694.8,3.7,2026-07-06,3.9,0.86,29.8,19.1,2.67,1764.6,52w_high+price_gainer,False,False,True,3,

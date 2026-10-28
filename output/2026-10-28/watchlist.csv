@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+PPLPHARMA,Piramal Pharma Limited,WATCH,232.8,218.68,1.6,2026-09-08,7.7,0.94,29.4,20.2,2.14,2684.5,52w_high+price_gainer+volume_gainer,False,False,True,2,

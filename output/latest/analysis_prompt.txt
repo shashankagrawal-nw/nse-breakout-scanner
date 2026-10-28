@@ -13,49 +13,28 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 67
-prescreen survivors 15
-confirmed 1 | watch 1 | rejected 65
-reject reasons: S0_turnover=18, S1_off_high=12, S1_base_short=8, S1_red_close=8, S0_series=7, S0_fund=5, S2_no_new_high=5
+candidates 73
+prescreen survivors 17
+confirmed 0 | watch 1 | rejected 72
+reject reasons: S0_turnover=15, S1_red_close=11, S1_base_short=9, S1_off_high=9, S0_series=8, S0_fund=7, S2_no_new_high=7, S2_data=3
 
 Classified names (JSON):
 [
  {
-  "symbol": "ACUTAAS",
-  "name": "Acutaas Chemicals Limited",
-  "bucket": "CONFIRMED",
-  "close": 3793.3,
-  "breakout_level": 3694.8,
-  "base_months": 3.7,
-  "base_start": "2026-07-06",
-  "vol_x_10wk": 3.9,
-  "weekly_close_pos": 0.86,
-  "ext_vs_10m_ma_pct": 29.8,
-  "base_drawdown_pct": 19.1,
-  "off_high_pct": 2.67,
-  "turnover_cr": 1764.6,
-  "sources": "52w_high+price_gainer",
-  "weekly_candle_final": false,
-  "spliced_today": false,
-  "s3_pass": true,
-  "s4_score": 3,
-  "s3_fail": null
- },
- {
-  "symbol": "SONACOMS",
-  "name": "Sona BLW Precision Forgings Limited",
+  "symbol": "PPLPHARMA",
+  "name": "Piramal Pharma Limited",
   "bucket": "WATCH",
-  "close": 851.85,
-  "breakout_level": 824.5,
-  "base_months": 2.2,
-  "base_start": "2026-08-20",
-  "vol_x_10wk": 2.3,
-  "weekly_close_pos": 0.87,
-  "ext_vs_10m_ma_pct": 28.9,
-  "base_drawdown_pct": 12.2,
-  "off_high_pct": 1.86,
-  "turnover_cr": 1625.2,
-  "sources": "52w_high",
+  "close": 232.8,
+  "breakout_level": 218.68,
+  "base_months": 1.6,
+  "base_start": "2026-09-08",
+  "vol_x_10wk": 7.7,
+  "weekly_close_pos": 0.94,
+  "ext_vs_10m_ma_pct": 29.4,
+  "base_drawdown_pct": 20.2,
+  "off_high_pct": 2.14,
+  "turnover_cr": 2684.5,
+  "sources": "52w_high+price_gainer+volume_gainer",
   "weekly_candle_final": false,
   "spliced_today": false,
   "s3_pass": true,
