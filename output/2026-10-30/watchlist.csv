@@ -1,0 +1,4 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+ATHERENERG,Ather Energy Limited,WATCH,1756.0,1656.0,1.9,2026-09-01,1.8,0.94,55.6,22.8,1.6,1390.6,52w_high,True,False,True,2,
+COFORGE,Coforge Limited,WATCH,2045.0,2014.6,2.0,2026-08-31,1.6,0.93,31.6,15.1,0.81,1252.5,52w_high,True,False,True,2,
+SMSPHARMA,SMS Pharmaceuticals Limited,WATCH,511.35,475.0,1.2,2026-09-22,1.6,0.89,28.0,18.1,2.86,220.1,52w_high,True,False,True,2,
