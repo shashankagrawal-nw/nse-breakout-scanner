@@ -1,4 +1,5 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-MARICO,Marico Limited,CONFIRMED,890.0,870.65,3.2,2026-07-30,2.8,0.95,9.5,14.9,0.63,535.8,52w_high,False,True,True,4,
-SAREGAMA,Saregama India Limited,CONFIRMED,643.5,548.65,3.0,2026-08-05,11.8,0.92,39.5,17.7,1.44,1367.8,52w_high+price_gainer+volume_gainer,False,True,True,3,
-EMCURE,Emcure Pharmaceuticals Limited,CONFIRMED,2174.2,2003.8,1.5,2026-09-18,3.3,1.0,20.3,18.3,0.0,258.8,52w_high,False,True,True,3,
+ICICIBANK,ICICI Bank Limited,CONFIRMED,1500.0,1444.3,3.5,2026-07-20,1.5,0.99,10.4,12.8,0.09,5748.0,52w_high,False,True,True,4,
+AUROPHARMA,Aurobindo Pharma Limited,CONFIRMED,1785.0,1734.0,1.4,2026-09-24,1.9,0.92,16.2,11.1,0.66,553.2,52w_high,False,True,True,3,
+MOTILALOFS,Motilal Oswal Financial Services Limited,CONFIRMED,1095.0,1057.6,1.0,2026-10-07,1.7,0.99,22.8,18.7,0.08,324.8,52w_high,False,True,True,3,
+MUFIN,Mufin Green Finance Limited,CONFIRMED,142.81,139.49,0.5,2026-10-21,2.0,0.83,13.6,12.1,1.51,52.0,52w_high,False,True,True,3,
