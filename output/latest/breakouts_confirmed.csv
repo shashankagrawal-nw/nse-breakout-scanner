@@ -1,5 +1,2 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-ICICIBANK,ICICI Bank Limited,CONFIRMED,1500.0,1444.3,3.5,2026-07-20,1.5,0.99,10.4,12.8,0.09,5748.0,52w_high,False,True,True,4,
-AUROPHARMA,Aurobindo Pharma Limited,CONFIRMED,1785.0,1734.0,1.4,2026-09-24,1.9,0.92,16.2,11.1,0.66,553.2,52w_high,False,True,True,3,
-MOTILALOFS,Motilal Oswal Financial Services Limited,CONFIRMED,1095.0,1057.6,1.0,2026-10-07,1.7,0.99,22.8,18.7,0.08,324.8,52w_high,False,True,True,3,
-MUFIN,Mufin Green Finance Limited,CONFIRMED,142.81,139.49,0.5,2026-10-21,2.0,0.83,13.6,12.1,1.51,52.0,52w_high,False,True,True,3,
+NAVINFLUOR,Navin Fluorine International Limited,CONFIRMED,9010.0,8680.0,1.9,2026-09-09,1.9,0.97,18.2,16.1,0.28,197.6,52w_high,True,True,True,3,

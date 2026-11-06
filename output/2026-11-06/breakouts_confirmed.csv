@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+NAVINFLUOR,Navin Fluorine International Limited,CONFIRMED,9010.0,8680.0,1.9,2026-09-09,1.9,0.97,18.2,16.1,0.28,197.6,52w_high,True,True,True,3,
