@@ -1,3 +1,2 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-ENTERO,Entero Healthcare Solutions Limited,WATCH,1909.0,1827.6,1.9,2026-09-08,2.3,0.93,35.1,25.3,1.43,230.4,52w_high,True,True,True,2,
-SAILIFE,Sai Life Sciences Limited,WATCH,1768.0,1600.5,1.9,2026-09-09,5.0,0.85,35.4,19.8,2.58,2338.8,52w_high+price_gainer+volume_gainer,True,True,True,2,
+GUFICBIO,Gufic Biosciences Limited,WATCH,474.35,444.9,2.1,2026-09-07,1.5,0.85,27.9,19.5,0.0,36.1,52w_high+price_gainer+volume_gainer,False,False,True,2,

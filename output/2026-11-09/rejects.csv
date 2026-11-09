@@ -1,0 +1,109 @@
+symbol,stage,detail
+AATMAJ,S0_series,SM
+ALGOQUANT,S1_base_short,base 1d — rolling high
+ANTHEM,S1_off_high,closed 3.0% off day high
+AONELIQUID,S0_fund,ETF/index fund
+APLLTD,S1_off_high,closed 3.5% off day high
+ARYAMAN,S1_red_close,-0.31% on the day
+ATHERENERG,S1_base_short,base 1d — rolling high
+AUROPHARMA,S1_base_short,base 1d — rolling high
+BMETRICS,S0_series,SM
+BONDADA,S1_base_short,base 10d — rolling high
+BONFIG,S1_base_short,base 1d — rolling high
+CORONA,S1_off_high,closed 6.4% off day high
+CREDENT,S0_series,SM
+DIVISLAB,S1_base_short,base 1d — rolling high
+DSKULKARNI,S0_series,BE
+EIMCOELECO,S1_base_short,base 4d — rolling high
+ENTERO,S1_base_short,base 1d — rolling high
+FASCINATE,S0_series,SM
+GLAND,S1_base_short,base 4d — rolling high
+GLENMARK,S1_base_short,base 3d — rolling high
+GNRL,S1_off_high,closed 7.9% off day high
+GRWRHITECH,S1_red_close,-0.53% on the day
+HEALTHIETF,S0_fund,ETF/index fund
+HGSINDIALT,S0_series,ST
+HPTL,S0_series,ST
+ICICIBANK,S1_base_short,base 1d — rolling high
+IGIL,S1_red_close,-0.77% on the day
+INNOMET,S0_series,ST
+IVZBANKNF,S0_fund,ETF/index fund
+KICL,S0_series,BE
+KOTAKBANK,S1_red_close,-0.21% on the day
+KRISHANA,S1_red_close,-1.81% on the day
+LALPATHLAB,S1_base_short,base 4d — rolling high
+LAURUSLABS,S1_base_short,base 7d — rolling high
+LIQUIDCASE,S0_fund,ETF/index fund
+LIQUIDSHRI,S0_fund,ETF/index fund
+LUMAXTECH,S1_red_close,-4.15% on the day
+MACPOWER,S1_red_close,-0.39% on the day
+MANAKSTEEL,S0_series,BE
+MATRIMONY,S1_base_short,base 1d — rolling high
+MAXENGS,S0_series,ST
+MBAPL,S1_red_close,-0.67% on the day
+MELSTAR,S0_series,BE
+MILTON,S0_series,ST
+MOHEALTH,S0_fund,ETF/index fund
+ONELIFECAP,S0_series,BE
+PERMAGN,S1_off_high,closed 7.1% off day high
+PGIL,S1_off_high,closed 5.7% off day high
+PHARMABEES,S0_fund,ETF/index fund
+PHARMAIETF,S0_fund,ETF/index fund
+PPLPHARMA,S1_red_close,-0.37% on the day
+PRIZOR,S0_series,SM
+PVRINOX,S1_red_close,-0.41% on the day
+RTL,S0_series,SM
+SAHANA,S0_series,SM
+SAILIFE,S1_off_high,closed 3.2% off day high
+SBC,S1_red_close,-0.32% on the day
+SHEETAL,S0_series,SM
+SHETHJI,S0_series,SM
+SHUKRAPHAR,S1_base_short,base 6d — rolling high
+SILKFLEX,S0_series,SM
+SONACOMS,S1_base_short,base 4d — rolling high
+SOUTHBANK,S1_base_short,base 1d — rolling high
+SPECTRUM,S1_red_close,-0.28% on the day
+TAURIAN,S0_series,ST
+TFCILTD,S1_base_short,base 1d — rolling high
+UYFINCORP,S0_series,BE
+VGCL,S1_off_high,closed 6.4% off day high
+VIAZ,S0_series,SM
+VIJSOLX,S1_base_short,base 1d — rolling high
+VPFL,S0_series,ST
+VRLLOG,S1_off_high,closed 8.1% off day high
+WESTLIFE,S1_base_short,base 1d — rolling high
+ZETWERK,S1_base_short,base 4d — rolling high
+MCCHRLS-B,S1_red_close,-2.81% on the day
+REPCOHOME,S1_off_high,closed 4.6% off day high
+SALZERELEC,S1_off_high,closed 3.0% off day high
+SPMLINFRA,S1_off_high,closed 6.0% off day high
+ARIHANT,S1_red_close,-2.19% on the day
+IOLCP,S1_off_high,closed 5.8% off day high
+BANKIETF,S0_fund,ETF/index fund
+ITIETF,S0_fund,ETF/index fund
+ASTEC,S1_red_close,-7.63% on the day
+SPCENET,S1_off_high,closed 4.8% off day high
+KEEPLEARN,S1_off_high,closed 5.3% off day high
+SOMICONVEY,S1_off_high,closed 3.4% off day high
+MAKERSL,S2_data,DATA UNAVAILABLE (57 bars)
+COHANCE,S2_no_new_high,day high 448.55 < 52w high 779.45
+IRMENERGY,S1_off_high,closed 7.6% off day high
+KPIGREEN,S1_off_high,closed 9.1% off day high
+CHEMPLASTS,S1_off_high,closed 6.7% off day high
+KPEL,S2_no_new_high,day high 204.90 < 52w high 463.25
+TRANSWORLD,S2_no_new_high,day high 237.39 < 52w high 253.14
+SPARC,S1_off_high,closed 4.0% off day high
+ALEMBICLTD,S1_off_high,closed 6.8% off day high
+JAIPURKURT,S1_off_high,closed 4.2% off day high
+AARTIDRUGS,S2_no_new_high,day high 513.00 < 52w high 534.00
+HMVL,S0_turnover,Rs 2.8 cr
+IPRINGLTD,S2_data,DATA UNAVAILABLE (63 bars)
+DAMODARIND,S0_turnover,Rs 0.1 cr
+VASWANI,S1_off_high,closed 5.0% off day high
+POEL,S2_data,DATA UNAVAILABLE (57 bars)
+PPAP,S0_turnover,Rs 2.0 cr
+ORIENTLTD,S0_turnover,Rs 0.0 cr
+GATECH,S0_turnover,Rs 0.5 cr
+DATAPATTNS,S2_no_new_high,day high 4073.00 < 52w high 5000.00
+QUESS,S2_no_new_high,day high 348.00 < 52w high 388.75
+SUNSHINE,S2_data,DATA UNAVAILABLE (52 bars)
