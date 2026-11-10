@@ -28,7 +28,6 @@ ICICIBANK,S1_base_short,base 1d — rolling high
 IGIL,S1_red_close,-0.77% on the day
 INNOMET,S0_series,ST
 IVZBANKNF,S0_fund,ETF/index fund
-KICL,S0_series,BE
 KOTAKBANK,S1_red_close,-0.21% on the day
 KRISHANA,S1_red_close,-1.81% on the day
 LALPATHLAB,S1_base_short,base 4d — rolling high
@@ -79,9 +78,8 @@ SALZERELEC,S1_off_high,closed 3.0% off day high
 SPMLINFRA,S1_off_high,closed 6.0% off day high
 ARIHANT,S1_red_close,-2.19% on the day
 IOLCP,S1_off_high,closed 5.8% off day high
-BANKIETF,S0_fund,ETF/index fund
-ITIETF,S0_fund,ETF/index fund
 ASTEC,S1_red_close,-7.63% on the day
+ITIETF,S0_fund,ETF/index fund
 SPCENET,S1_off_high,closed 4.8% off day high
 KEEPLEARN,S1_off_high,closed 5.3% off day high
 SOMICONVEY,S1_off_high,closed 3.4% off day high
@@ -89,21 +87,23 @@ MAKERSL,S2_data,DATA UNAVAILABLE (57 bars)
 COHANCE,S2_no_new_high,day high 448.55 < 52w high 779.45
 IRMENERGY,S1_off_high,closed 7.6% off day high
 KPIGREEN,S1_off_high,closed 9.1% off day high
-CHEMPLASTS,S1_off_high,closed 6.7% off day high
 KPEL,S2_no_new_high,day high 204.90 < 52w high 463.25
+CHEMPLASTS,S1_off_high,closed 6.7% off day high
 TRANSWORLD,S2_no_new_high,day high 237.39 < 52w high 253.14
 SPARC,S1_off_high,closed 4.0% off day high
-ALEMBICLTD,S1_off_high,closed 6.8% off day high
 JAIPURKURT,S1_off_high,closed 4.2% off day high
+ALEMBICLTD,S1_off_high,closed 6.8% off day high
 AARTIDRUGS,S2_no_new_high,day high 513.00 < 52w high 534.00
-HMVL,S0_turnover,Rs 2.8 cr
 IPRINGLTD,S2_data,DATA UNAVAILABLE (63 bars)
-DAMODARIND,S0_turnover,Rs 0.1 cr
-VASWANI,S1_off_high,closed 5.0% off day high
+QUESS,S2_no_new_high,day high 348.00 < 52w high 388.75
+SCANSTL,S2_data,DATA UNAVAILABLE (57 bars)
+STARPAPER,S1_off_high,closed 4.3% off day high
+AMARJOTHI,S2_data,DATA UNAVAILABLE (63 bars)
+HMVL,S0_turnover,Rs 2.8 cr
 POEL,S2_data,DATA UNAVAILABLE (57 bars)
-PPAP,S0_turnover,Rs 2.0 cr
+DAMODARIND,S0_turnover,Rs 0.1 cr
+PPAP,S0_turnover,Rs 2.1 cr
 ORIENTLTD,S0_turnover,Rs 0.0 cr
 GATECH,S0_turnover,Rs 0.5 cr
 DATAPATTNS,S2_no_new_high,day high 4073.00 < 52w high 5000.00
-QUESS,S2_no_new_high,day high 348.00 < 52w high 388.75
 SUNSHINE,S2_data,DATA UNAVAILABLE (52 bars)
