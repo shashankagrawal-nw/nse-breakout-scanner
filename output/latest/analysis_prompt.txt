@@ -13,32 +13,32 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 112
-prescreen survivors 28
-confirmed 0 | watch 1 | rejected 111
-reject reasons: S0_series=23, S1_off_high=23, S1_base_short=21, S1_red_close=15, S0_fund=9, S2_data=6, S2_no_new_high=6, S0_turnover=5
+candidates 139
+prescreen survivors 38
+confirmed 1 | watch 0 | rejected 138
+reject reasons: S1_base_short=25, S0_fund=24, S0_series=21, S1_off_high=18, S2_no_new_high=15, S1_red_close=13, S2_data=8, S0_turnover=6
 
 Classified names (JSON):
 [
  {
-  "symbol": "GUFICBIO",
-  "name": "Gufic Biosciences Limited",
-  "bucket": "WATCH",
-  "close": 474.35,
-  "breakout_level": 444.9,
-  "base_months": 2.1,
-  "base_start": "2026-09-07",
-  "vol_x_10wk": 1.5,
-  "weekly_close_pos": 0.85,
-  "ext_vs_10m_ma_pct": 27.9,
-  "base_drawdown_pct": 19.5,
-  "off_high_pct": 0.0,
-  "turnover_cr": 36.1,
-  "sources": "52w_high+price_gainer",
+  "symbol": "PNB",
+  "name": "Punjab National Bank",
+  "bucket": "CONFIRMED",
+  "close": 138.48,
+  "breakout_level": 132.36,
+  "base_months": 9.7,
+  "base_start": "2026-01-19",
+  "vol_x_10wk": 1.6,
+  "weekly_close_pos": 0.96,
+  "ext_vs_10m_ma_pct": 20.1,
+  "base_drawdown_pct": 27.1,
+  "off_high_pct": 0.37,
+  "turnover_cr": 1140.4,
+  "sources": "52w_high",
   "weekly_candle_final": false,
-  "spliced_today": false,
+  "spliced_today": true,
   "s3_pass": true,
-  "s4_score": 2,
+  "s4_score": 4,
   "s3_fail": null
  }
 ]
