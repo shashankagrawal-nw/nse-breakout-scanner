@@ -13,32 +13,74 @@ You are a sceptical equity technical analyst writing an internal breakout note o
 ---
 
 Funnel summary:
-candidates 139
-prescreen survivors 38
-confirmed 1 | watch 0 | rejected 138
-reject reasons: S1_base_short=25, S0_fund=24, S0_series=21, S1_off_high=18, S2_no_new_high=15, S1_red_close=13, S2_data=8, S0_turnover=6
+candidates 126
+prescreen survivors 36
+confirmed 1 | watch 2 | rejected 123
+reject reasons: S1_base_short=34, S0_series=18, S1_off_high=16, S0_fund=14, S2_no_new_high=11, S2_data=9, S1_red_close=8, S0_turnover=7
 
 Classified names (JSON):
 [
  {
-  "symbol": "PNB",
-  "name": "Punjab National Bank",
+  "symbol": "AMANTA",
+  "name": "Amanta Healthcare Limited",
+  "bucket": "WATCH",
+  "close": 229.0,
+  "breakout_level": 197.75,
+  "base_months": 2.1,
+  "base_start": "2026-09-10",
+  "vol_x_10wk": 7.4,
+  "weekly_close_pos": 0.85,
+  "ext_vs_10m_ma_pct": 46.7,
+  "base_drawdown_pct": 27.7,
+  "off_high_pct": 2.65,
+  "turnover_cr": 61.8,
+  "sources": "52w_high+price_gainer",
+  "weekly_candle_final": false,
+  "spliced_today": true,
+  "s3_pass": true,
+  "s4_score": 2,
+  "s3_fail": null
+ },
+ {
+  "symbol": "KESORAMIND",
+  "name": "Kesoram Industries Limited",
   "bucket": "CONFIRMED",
-  "close": 138.48,
-  "breakout_level": 132.36,
-  "base_months": 9.7,
-  "base_start": "2026-01-19",
-  "vol_x_10wk": 1.6,
+  "close": 14.5,
+  "breakout_level": 13.03,
+  "base_months": 6.0,
+  "base_start": "2026-05-14",
+  "vol_x_10wk": 2.6,
   "weekly_close_pos": 0.96,
-  "ext_vs_10m_ma_pct": 20.1,
-  "base_drawdown_pct": 27.1,
-  "off_high_pct": 0.37,
-  "turnover_cr": 1140.4,
+  "ext_vs_10m_ma_pct": 29.2,
+  "base_drawdown_pct": 28.7,
+  "off_high_pct": 0.55,
+  "turnover_cr": 8.3,
   "sources": "52w_high",
   "weekly_candle_final": false,
   "spliced_today": true,
   "s3_pass": true,
-  "s4_score": 4,
+  "s4_score": 3,
+  "s3_fail": null
+ },
+ {
+  "symbol": "STYLEBAAZA",
+  "name": "Baazar Style Retail Limited",
+  "bucket": "WATCH",
+  "close": 442.3,
+  "breakout_level": 417.65,
+  "base_months": 2.7,
+  "base_start": "2026-08-21",
+  "vol_x_10wk": 1.8,
+  "weekly_close_pos": 0.83,
+  "ext_vs_10m_ma_pct": 28.7,
+  "base_drawdown_pct": 21.7,
+  "off_high_pct": 2.21,
+  "turnover_cr": 119.6,
+  "sources": "52w_high",
+  "weekly_candle_final": false,
+  "spliced_today": true,
+  "s3_pass": true,
+  "s4_score": 2,
   "s3_fail": null
  }
 ]
