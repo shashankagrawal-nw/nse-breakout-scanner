@@ -1,3 +1,6 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-AMANTA,Amanta Healthcare Limited,WATCH,229.0,197.75,2.1,2026-09-10,7.4,0.85,46.7,27.7,2.65,61.8,52w_high+price_gainer,False,True,True,2,
-STYLEBAAZA,Baazar Style Retail Limited,WATCH,442.3,417.65,2.7,2026-08-21,1.8,0.83,28.7,21.7,2.21,119.6,52w_high,False,True,True,2,
+DHANBANK,Dhanlaxmi Bank Limited,WATCH,40.95,35.79,0.7,2026-10-22,11.7,0.89,35.5,20.2,2.48,447.0,52w_high+price_gainer+volume_gainer,True,True,True,2,
+ESAFSFB,ESAF Small Finance Bank Limited,WATCH,46.42,44.71,1.4,2026-09-30,1.6,0.95,31.2,19.8,0.6,9.3,52w_high,True,True,True,2,
+MMFL,MM Forgings Limited,WATCH,689.0,652.6,2.9,2026-08-18,1.6,0.93,32.6,33.1,0.86,28.8,52w_high,True,True,True,2,
+RPEL,Raghav Productivity Enhancers Limited,WATCH,1955.0,1845.2,2.3,2026-09-04,1.7,0.83,55.7,22.5,1.66,66.5,52w_high,True,True,True,2,
+SHALPAINTS,Shalimar Paints Limited,WATCH,94.98,91.39,2.9,2026-08-17,5.5,0.86,46.8,25.8,2.56,19.9,52w_high+price_gainer,True,True,True,2,
