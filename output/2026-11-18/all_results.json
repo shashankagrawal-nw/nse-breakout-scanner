@@ -1,0 +1,23 @@
+[
+ {
+  "symbol": "SUNTV",
+  "name": "Sun TV Network Limited",
+  "bucket": "REJECTED",
+  "close": 696.0,
+  "breakout_level": 647.65,
+  "base_months": 1.1,
+  "base_start": "2026-10-15",
+  "vol_x_10wk": 0.4,
+  "weekly_close_pos": 0.86,
+  "ext_vs_10m_ma_pct": 21.7,
+  "base_drawdown_pct": 16.1,
+  "off_high_pct": 1.11,
+  "turnover_cr": 208.0,
+  "sources": "52w_high",
+  "weekly_candle_final": false,
+  "spliced_today": true,
+  "s3_pass": false,
+  "s4_score": 3,
+  "s3_fail": "c3 volume 0.4x < 1.5x"
+ }
+]
