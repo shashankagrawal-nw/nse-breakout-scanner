@@ -1,0 +1,105 @@
+symbol,stage,detail
+AAREYDRUGS,S1_base_short,base 4d — rolling high
+ABSLBANETF,S0_fund,ETF/index fund
+ADROITINFO,S0_series,BE
+ALICON,S1_base_short,base 1d — rolling high
+ARIS,S1_base_short,base 1d — rolling high
+BANK10ADD,S0_fund,ETF/index fund
+BANKADD,S0_fund,ETF/index fund
+BANKBEES,S0_fund,ETF/index fund
+BANKBETF,S0_fund,ETF/index fund
+BANKCASE,S0_fund,ETF/index fund
+BANKETF,S0_fund,ETF/index fund
+BANKIETF,S0_fund,ETF/index fund
+BANKNIFTY1,S0_fund,ETF/index fund
+BANKPSU,S0_fund,ETF/index fund
+BBNPNBETF,S0_fund,ETF/index fund
+BNKETFAXIS,S0_fund,ETF/index fund
+COFORGE,S1_off_high,closed 4.2% off day high
+DCBBANK,S1_red_close,-0.85% on the day
+DLF,S1_base_short,base 3d — rolling high
+DSKULKARNI,S0_series,BE
+EBANK10,S0_fund,ETF/index fund
+EQUAL50,S0_fund,ETF/index fund
+FLUOROCHEM,S1_red_close,-0.98% on the day
+FREDUN,S1_red_close,-1.52% on the day
+GCSL,S1_base_short,base 1d — rolling high
+GREAVESCOT,S1_off_high,closed 5.2% off day high
+GROWWPSUBK,S0_fund,ETF/index fund
+HDFCNIFBAN,S0_fund,ETF/index fund
+HDFCPVTBAN,S0_fund,ETF/index fund
+HEALTHY,S0_fund,ETF/index fund
+HILINFRA,S0_series,BE
+ICICIBANK,S1_base_short,base 9d — rolling high
+ICIL,S1_red_close,-0.09% on the day
+INDHOTEL,S1_base_short,base 3d — rolling high
+IVZBANKNF,S0_fund,ETF/index fund
+IVZSENSEX,S0_fund,ETF/index fund
+KMCSHIL,S1_off_high,closed 3.1% off day high
+KODYTECH,S0_series,SM
+KOTAKBANK,S1_base_short,base 2d — rolling high
+LARGEMID50,S0_fund,ETF/index fund
+LICHSGFIN,S1_base_short,base 2d — rolling high
+LIQUIDSHRI,S0_fund,ETF/index fund
+MAHABANK,S1_base_short,base 1d — rolling high
+MAHICKRA,S0_series,SM
+MANOMAY,S1_base_short,base 2d — rolling high
+MEESHO,S1_base_short,base 4d — rolling high
+NEOGEN,S1_base_short,base 1d — rolling high
+NITINSPIN,S1_off_high,closed 3.0% off day high
+NPBET,S0_fund,ETF/index fund
+ONELIFECAP,S0_series,BE
+PGIL,S1_base_short,base 2d — rolling high
+PHOENIXLTD,S1_base_short,base 7d — rolling high
+POSITRON,S0_series,ST
+PSUBANKADD,S0_fund,ETF/index fund
+PSUBNKBEES,S0_fund,ETF/index fund
+PVTBANIETF,S0_fund,ETF/index fund
+PVTBANKADD,S0_fund,ETF/index fund
+PVTBKGROWW,S0_fund,ETF/index fund
+RFBL,S0_series,ST
+SAB,S1_base_short,base 1d — rolling high
+SBIBANKNIF,S0_fund,ETF/index fund
+SBIPVTBNK,S0_fund,ETF/index fund
+SGFIN,S1_base_short,base 2d — rolling high
+SGMART,S1_base_short,base 2d — rolling high
+SHADOWFAX,S1_red_close,-2.74% on the day
+UNIONBANK,S1_base_short,base 1d — rolling high
+VEEFIN,S1_base_short,base 1d — rolling high
+VIAZ,S0_series,ST
+WELSPUNLIV,S1_off_high,closed 3.7% off day high
+JLHL,S1_off_high,closed 4.9% off day high
+PVTBANK,S0_fund,ETF/index fund
+SILVER001,S0_fund,ETF/index fund
+KALPATARU,S1_red_close,-1.23% on the day
+WELINV,S1_off_high,closed 6.3% off day high
+SBIQUALITY,S0_fund,ETF/index fund
+VERTOZ,S1_off_high,closed 6.4% off day high
+UGROCAP,S1_off_high,closed 4.2% off day high
+VISHNU,S1_red_close,-7.89% on the day
+AVG,S1_red_close,-1.88% on the day
+CONSUMBEES,S0_fund,ETF/index fund
+ABCIND,S1_red_close,-2.27% on the day
+INDIANCARD,S1_red_close,-3.72% on the day
+SIGACHI,S1_off_high,closed 3.2% off day high
+RRIL,S1_off_high,closed 4.9% off day high
+VIVOBIOT,S1_off_high,closed 7.1% off day high
+CHEMBONDCH,S1_off_high,closed 6.0% off day high
+OAL,S2_no_new_high,day high 516.70 < 52w high 645.00
+NUVOCO,S2_no_new_high,day high 355.00 < 52w high 398.00
+FABTECH,S2_no_new_high,day high 139.05 < 52w high 258.00
+DBL,S2_no_new_high,day high 400.00 < 52w high 497.00
+GERMAN,S2_data,DATA UNAVAILABLE (33 bars)
+TIPSFILMS,S2_no_new_high,day high 403.60 < 52w high 467.10
+THYROCARE,S2_no_new_high,day high 531.00 < 52w high 662.00
+HEALTHX,S0_turnover,Rs 3.0 cr
+FSL,S2_no_new_high,day high 278.40 < 52w high 371.75
+AJMERA,S2_no_new_high,day high 152.45 < 52w high 208.96
+SHIVAMAUTO,S0_turnover,Rs 0.2 cr
+SHYAMTEL,S0_turnover,Rs 0.0 cr
+INDUSINDBK,S2_no_new_high,day high 1003.00 < 52w high 1077.85
+BAJAJINDEF,S0_turnover,Rs 1.2 cr
+TECILCHEM,S0_turnover,Rs 0.0 cr
+EIHOTEL,S2_no_new_high,day high 337.25 < 52w high 391.90
+MERCANTILE,S2_data,DATA UNAVAILABLE (64 bars)
+S&SPOWER,S0_turnover,Rs 0.1 cr

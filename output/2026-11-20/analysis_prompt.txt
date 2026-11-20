@@ -1,0 +1,86 @@
+PASTE EVERYTHING BELOW THIS LINE INTO claude.ai TO GET THE ANALYSIS NOTE
+======================================================================
+
+You are a sceptical equity technical analyst writing an internal breakout note on Indian listed equities. You receive pre-computed metrics for stocks a deterministic pipeline has already classified. Rules, non-negotiable:
+- Use ONLY the numbers provided. Never invent a price, level, date, or volume.
+- Every invalidation level you state must be the provided breakout_level.
+- For each CONFIRMED name write exactly 4 short lines: (1) what level was cleared and on what volume expansion, (2) base character from base_months and base_drawdown_pct — call a drawdown over 40% a recovery, not a base, (3) invalidation: a weekly close below breakout_level, (4) the single biggest concern (extension, base shape, thin turnover, or provisional weekly candle).
+- For each WATCH name: one line on exactly what is missing.
+- If weekly_candle_final is false, open the note by saying all signals are provisional until Friday's close.
+- No buy/sell/target/position language. End with exactly: "Technical classification, not investment advice."
+- Under 450 words. Plain prose, no markdown headers.
+
+---
+
+Funnel summary:
+candidates 110
+prescreen survivors 24
+confirmed 3 | watch 0 | rejected 107
+reject reasons: S0_fund=34, S1_base_short=20, S1_off_high=13, S1_red_close=10, S2_no_new_high=10, S0_series=9, S0_turnover=6, S2_data=2
+
+Classified names (JSON):
+[
+ {
+  "symbol": "AXISBANK",
+  "name": "Axis Bank Limited",
+  "bucket": "CONFIRMED",
+  "close": 1446.0,
+  "breakout_level": 1383.9,
+  "base_months": 9.5,
+  "base_start": "2026-02-03",
+  "vol_x_10wk": 1.7,
+  "weekly_close_pos": 0.97,
+  "ext_vs_10m_ma_pct": 12.4,
+  "base_drawdown_pct": 18.9,
+  "off_high_pct": 0.28,
+  "turnover_cr": 3105.5,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
+  "spliced_today": true,
+  "s3_pass": true,
+  "s4_score": 4,
+  "s3_fail": null
+ },
+ {
+  "symbol": "CUB",
+  "name": "City Union Bank Limited",
+  "bucket": "CONFIRMED",
+  "close": 248.8,
+  "breakout_level": 236.01,
+  "base_months": 2.4,
+  "base_start": "2026-09-07",
+  "vol_x_10wk": 2.4,
+  "weekly_close_pos": 0.9,
+  "ext_vs_10m_ma_pct": 17.4,
+  "base_drawdown_pct": 17.1,
+  "off_high_pct": 0.88,
+  "turnover_cr": 501.0,
+  "sources": "52w_high",
+  "weekly_candle_final": true,
+  "spliced_today": true,
+  "s3_pass": true,
+  "s4_score": 3,
+  "s3_fail": null
+ },
+ {
+  "symbol": "HMAAGRO",
+  "name": "HMA Agro Industries Limited",
+  "bucket": "CONFIRMED",
+  "close": 33.72,
+  "breakout_level": 31.77,
+  "base_months": 11.9,
+  "base_start": "2025-11-24",
+  "vol_x_10wk": 8.2,
+  "weekly_close_pos": 0.9,
+  "ext_vs_10m_ma_pct": 39.9,
+  "base_drawdown_pct": 42.5,
+  "off_high_pct": 2.6,
+  "turnover_cr": 380.9,
+  "sources": "52w_high+price_gainer+volume_gainer",
+  "weekly_candle_final": true,
+  "spliced_today": true,
+  "s3_pass": true,
+  "s4_score": 3,
+  "s3_fail": null
+ }
+]
