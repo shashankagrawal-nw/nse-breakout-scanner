@@ -86,33 +86,34 @@ VIAZ,S0_series,ST
 VIJAYA,S1_red_close,-0.66% on the day
 WELSPUNLIV,S1_off_high,closed 3.4% off day high
 WINDMACHIN,S1_off_high,closed 5.8% off day high
-ZEAL,S0_series,SM
+ZEAL,S0_series,ST
 ITI,S1_off_high,closed 4.2% off day high
 GSEC10YEAR,S0_fund,ETF/index fund
 WELSPLSOL,S1_off_high,closed 4.5% off day high
 ABINFRA,S1_off_high,closed 4.4% off day high
-MALLCOM,S1_red_close,-4.13% on the day
 APLAPOLLO,S1_red_close,-21.29% on the day
-ABSLBANETF,S0_fund,ETF/index fund
-MIDBANKADD,S0_fund,ETF/index fund
-NAGREEKCAP,S1_red_close,-4.79% on the day
+MALLCOM,S1_red_close,-4.13% on the day
+ABGSEC,S0_fund,ETF/index fund
 MOIPO,S0_fund,ETF/index fund
+MIDBANKADD,S0_fund,ETF/index fund
+ABSLBANETF,S0_fund,ETF/index fund
+LENSKART,S1_red_close,-3.82% on the day
+NAGREEKCAP,S1_red_close,-4.79% on the day
 SHYAMTEL,S1_off_high,closed 5.8% off day high
 HECPROJECT,S1_off_high,closed 4.9% off day high
+BALAXI,S0_series,BE
 PERMAGN,S2_data,DATA UNAVAILABLE (66 bars)
 SUNSHINE,S2_data,DATA UNAVAILABLE (61 bars)
-RUCHINFRA,S0_turnover,Rs 1.5 cr
+RUCHINFRA,S1_off_high,closed 6.4% off day high
 HITECH,S2_no_new_high,day high 87.78 < 52w high 111.30
-INDIAGLYCO,S2_no_new_high,day high 281.85 < 52w high 1222.00
-PREMEXPLN,S2_no_new_high,day high 577.40 < 52w high 829.80
+INDIAGLYCO,S1_off_high,closed 3.5% off day high
+HAVISHA,S1_off_high,closed 4.4% off day high
+PREMEXPLN,S1_off_high,closed 4.0% off day high
 THOMASCOOK,S2_no_new_high,day high 131.49 < 52w high 161.70
 HCL-INSYS,S0_turnover,Rs 3.9 cr
-AJMERA,S2_no_new_high,day high 159.80 < 52w high 208.96
-HAVISHA,S0_turnover,Rs 0.1 cr
-JSLL,S2_no_new_high,day high 318.75 < 52w high 809.00
+JSLL,S1_off_high,closed 4.9% off day high
 ORTINGLOBE,S0_turnover,Rs 0.0 cr
 COMSYN,S2_no_new_high,day high 289.97 < 52w high 315.40
 TPHQ,S0_turnover,Rs 0.0 cr
 SUBEXLTD,S2_no_new_high,day high 19.24 < 52w high 22.80
 ORIENTLTD,S0_turnover,Rs 0.0 cr
-BALAXI,S0_turnover,Rs 4.4 cr

@@ -1521,9 +1521,9 @@
    "nearWKL": -88.64042933810376,
    "new52WHL": 105.45,
    "pChange": 4.9776007964161275,
-   "prev52WHL": 244.55,
+   "prev52WHL": 0,
    "prevClose": "100.45",
-   "prevHLDate": "29-Aug-2024",
+   "prevHLDate": "-",
    "series": "SM",
    "symbol": "ZEAL"
   },
@@ -1535,10 +1535,10 @@
    "nearWKL": -88.64042933810376,
    "new52WHL": 105.45,
    "pChange": 4.9776007964161275,
-   "prev52WHL": 0,
+   "prev52WHL": 244.55,
    "prevClose": "100.45",
-   "prevHLDate": "-",
-   "series": "SM",
+   "prevHLDate": "29-Aug-2024",
+   "series": "ST",
    "symbol": "ZEAL"
   }
  ],

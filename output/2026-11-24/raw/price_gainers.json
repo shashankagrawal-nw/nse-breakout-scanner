@@ -623,7 +623,7 @@
    },
    {
     "symbol": "BALAXI",
-    "series": "EQ",
+    "series": "BE",
     "open_price": 31.25,
     "high_price": 36.5,
     "low_price": 30.22,
@@ -1826,7 +1826,7 @@
    },
    {
     "symbol": "BALAXI",
-    "series": "EQ",
+    "series": "BE",
     "open_price": 31.25,
     "high_price": 36.5,
     "low_price": 30.22,
