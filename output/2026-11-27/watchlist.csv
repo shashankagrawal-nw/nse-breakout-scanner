@@ -1,0 +1,2 @@
+symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
+BEML,BEML Limited,WATCH,2319.0,2135.0,0.5,2026-11-11,6.5,0.83,26.5,10.7,2.7,2325.1,52w_high+price_gainer+volume_gainer,True,True,True,2,

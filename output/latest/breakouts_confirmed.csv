@@ -1,2 +1,2 @@
 symbol,name,bucket,close,breakout_level,base_months,base_start,vol_x_10wk,weekly_close_pos,ext_vs_10m_ma_pct,base_drawdown_pct,off_high_pct,turnover_cr,sources,weekly_candle_final,spliced_today,s3_pass,s4_score,s3_fail
-PRESTIGE,Prestige Estates Projects Limited,CONFIRMED,1832.1,1733.2,4.6,2026-07-10,3.4,0.95,23.1,21.7,0.47,1006.2,52w_high,False,True,True,4,
+JLHL,Jupiter Life Line Hospitals Limited,CONFIRMED,357.6,331.5,3.9,2026-07-30,9.5,1.0,27.8,31.4,0.0,244.1,52w_high+price_gainer,True,True,True,3,
